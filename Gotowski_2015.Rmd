@@ -1,0 +1,16 @@
+---
+title: "Gotowski_2015"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Gotowski outlines a syntactic and a morphological approach to subjects in French, where they can be treated as either syntactic arguments or as preverbal inflectional affixes respectively, in both child and adult French despite contrasting data. Gotowski proposes another approach, the “developmental” approach”, influenced by competition-based models of language acquisition. She claims that the contrast between child and adult speech in respect to subjects can be explained by children and adults having two separate grammars. Children treat subjects as preverbal affixes (morphological approach), whereas adults treat subjects as syntactic arguments (syntactic approach). Children then adopt the syntactic approach as that grammar is rewarded more as they grow.
+
+She uses the CHILDES corpus to test the following hypothesis: 1) Do children produce double subjects more often than adults? 2) Do children exhibit ne-retention less frequently than adults? 3) Do children exhibit subject-verb inversion less frequently than adults? In her developmental model, children will produce double subjects more often and exhibit ne-retention and subject-verb inversion less often. 
+
+All three of her predictions were found to be true and significant. She used these arguments to claim that children and adults have different grammatical representations of subjects, and that children have competing grammars of subjects as affixes vs syntactic arguments. 
+
+I am not convinced about the model that she uses to explain the results; I would like to see this interpreted in a different way. She claims that francophone children produce more root infinitives than would be expected by an NSL, but she is claiming that a competing grammar they have is NS. Do francophone children produce subjects with RIs? I also find a problem with the corpus as a source of data for adult speakers, as it is primarily child-addressed speech when it’s known that children pay attention to adult-to-adult conversations. In sum, I believe there is another, better explanation to this than what is proposed here. 

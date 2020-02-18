@@ -1,0 +1,17 @@
+---
+title: "Coveney_2005"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Coveney examines subject doubling from a sociolinguistic approach. He reviews grammarians’ feelings towards subject doubling, estimated frequency from previous literature, and what should count as SD. He draws utterances from the Picardy Corpus of Spoken French; the speakers are thirty adults working in colonies de vacance. 
+
+He finds that SD typically has a stigma, as early as the 17th century. Instead of SD appearing in an “all-or-nothing” type parameter in varieties of French, it is more useful to view it as a “more-or-less” type, similar to ne-retention. 
+Through the corpus, he finds an age-grading with respect to SD, where it becomes less common as one gets older. He attributes this to people conforming to a more standard speech once they get a stable job. Despite it appearing more frequently in children, standard non-SD is still more common and overestimated by some previous studies.
+
+In the study, he includes two speakers of Picard, in which SD is obligatory. These speakers had the lowest rates of SD, which he claims is because they are hyperaware of SD due to Picard’s quasi-obligation of SD and the stigmatization of it in French.
+
+Of interest in the low rates of SD in francophone adults than predicted (although it is present to varying degrees), and the high frequency of SD in Picard. Why does Picard feature SD so often? 
