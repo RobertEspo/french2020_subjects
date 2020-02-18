@@ -1,0 +1,41 @@
+---
+title: "De_Cat_2005"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+De Cat argues against the claims that a morphological analysis (MA, henceforth) of French subject clitics is possible.
+
+She first tests 4 predictions from the MA, which she reviews individually.
+
+"a) Subject-verb agreement can be marked twice morphologically." She claims that this would posit a randomly redundant and extremely asymmetrical system of French morphology.
+
+"b) Subject clitics should not be available for syntactic operations independently of their host." She provides evidence from the York and Cat corpora that inversion is productive in Canadian and Belgian French, which would not be possible under the MA unless a wide range of homophonous pre- and postverbal affixes with differing feature specifications were assumed. Since the MA claims to apply to spoken Colloquial Parisian French, this is not very strong evidence against it; however, 2% (18/903 tokens) of wh-questions (with wh-movement) features inversion, which means that it is possible, although a locutionary strategy (73%, 656/903 tokens) is clearly preferred. I would like to find a paper exploring the productiveness of inversion in Colloquial Parisian French.
+
+"c) Preverbal clitics appearing between the subject clitic and the verb also have to be analysed as affixes. These elements include en, y, object clitics and the negation particle ne." Although ne is believed to be absent in colloquial speech, it is still productive and sometimes obligatory. In the MA, a number of homophonous "ne" affixes would need to be proposed to account for a negative "ne V pas" and a restrictive "ne V que...", as well as a non-affixal "ne pas V". Furthermore, ne is syntactically constrained, whch is not predicted if it is a morpheme affixed on the verb pre-syntactically.
+
+She goes on to refute object clitics as affixes by explaining that the variability of which verb they appear with in multi-verb complexes cannot be determined in the absence of structural information, which is what the morphological analysis supposes; it should appear with the verb that it is an argument of (under the MA), but this is not the reality.
+
+She refuted y and en under the analysis that their presence must be structurally licensed when associated with human antecedents. More specifically, this behavior is licensed when en and y are not bound by a c-commanding DP (Lamiroy 1991).
+
+
+"d) Subject doubling is predicted (i.e. the cooccurence of an XP in [spec, TP] and of an adjacent subject clitic)." Here, she appeals to the information structure of the French sentence. She argues that the structure [CP [TP XP(i) [T` clitic(i)+T .... ]]] are never found in spoken French, but instead it is realized as [CP XP(i)... [TP clitic(i) [T' ...]]], where CP is topic position and must appear with a resumptive subject clitic. However, an overt focused XP will not appear with a subject clitic. An XP cannot be both topicalized and focused. This is based off grammaticality judgment tests administered to 14 natives speakers from Beglium, Canada, and France.
+
+She further appeals to variable binding in a sentence like, "Sa(i) mere (*elle) accompagnera chaque enfant(i)." The DP "sa mere" must be focused to obtain the desired reading, so it cannot be topicalized; as such, it cannot appear with the subject clitic. The DP must appear in spec-TP if it is not focused and there is no subject clitic.
+
+She concludes her argument by appealing to availability of a topic interpretation of the XP. In thetic sentences, typically answers to a question like "What happened?", there is no "aboutness topic." The sentence consists of entirely new information, so there is no topic. 
+
+She explains that some predicates, Individual Level Predicates (Milsark, 1974) can never appear in thetic sentences. "The subject of ILPs is obligatorily interpreted as the topic of the sentence (Erteschik-Shir, 1997), except when there is narrow focus on that constitutent (De Cat, 2002)." One expects ILPs to always take a subject clitic since the subject is always topicalized, except when there is a narrow focus on the subject, which is confirmed in the York and Cat corpora. This means that the subject of ILPs are found in the CP with the subject clitic in spec-TP, while in narrow focus readings, the subject is found in spec-TP without any subject clitic.
+
+De Cat then positions French in the framework developed by Bresnan & Mchombo (1987), comparing the properties of French subject clitics to the categories discussed in the mentioned paper: grammatical agreement (which would correspond to the MA) and anaphoric agreement.
+
+She finds that French subject clitics act more like anaphoric agreement based on four arguments. First, French subject clitics are not required to be local to the DP (in the same clause). Second, the subject clitic is not able to be present in subject questions in Spoken French, which is predicted if it were a grammatical agreement marker. Third, in idioms, the presence of a clitic marker will destroy the idiomatic interpretation (e.g.: "Les carrotes(i) elles(i) sont cuites"). Fourth, in French, a DP must be peripheral for there to be a resumptive subject clitic to be present; this should not be necessary if they were grammatical agreement markers. De Cat appeals to the prosody of left dislocation to argue that the XP is, in fact, dislocated.
+
+She proposes that subject clitics could act as topic markers, but this would still leave many consequences of the MA unresolved. Furthermore, she explains that feature mismatch in a sentence like "Les banques(pl), c'est(sg) les banques" would remain unexplained under this analysis.
+
+She proposes three more properties expected under an MA approach that she did not explore: "Subject clitics in spoken French a. cannot be conjoined..., b. cannot take wide scope..., c. display (very rare instances of) idiosyncrasy". Labelle (1985) explains away the first two issues by ascribing the subject clitics as phonologically weak.
+
+In all, this is a convincing argument that the MA approach does not work in its current state.
