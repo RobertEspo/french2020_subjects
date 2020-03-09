@@ -1,11 +1,11 @@
 ---
 title: "De_Cat_2005"
 output: word_document
+bibliography: C://Users/rober/Documents/GitHub/french2020_subjects/bib/final.bib
+csl: C://Users/rober/Documents/GitHub/french2020_subjects/bib/apa.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# @de2005french
 
 De Cat argues against the claims that a morphological analysis (MA, henceforth) of French subject clitics is possible.
 

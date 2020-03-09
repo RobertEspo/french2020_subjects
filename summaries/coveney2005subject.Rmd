@@ -1,11 +1,11 @@
 ---
 title: "Coveney_2005"
-output: word_document
+output: Word_document
+bibliography: C://Users/rober/Documents/GitHub/french2020_subjects/bib/final.bib
+csl: C://Users/rober/Documents/GitHub/french2020_subjects/bib/apa.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# @coveney2005subject
 
 Coveney examines subject doubling from a sociolinguistic approach. He reviews grammarians’ feelings towards subject doubling, estimated frequency from previous literature, and what should count as SD. He draws utterances from the Picardy Corpus of Spoken French; the speakers are thirty adults working in colonies de vacance. 
 

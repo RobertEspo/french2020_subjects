@@ -1,0 +1,20 @@
+---
+title: "auger2003redoublement"
+output: Word_document
+bibliography: C://Users/rober/Documents/GitHub/french2020_subjects/bib/final.bib
+csl: C://Users/rober/Documents/GitHub/french2020_subjects/bib/apa.csl
+---
+
+# @auger2003redoublement
+
+Auger examines subject doubling in the understudied Picard language to confirm its existence in the language and if pre- and postverbal subjects serve the same purpose. Auger confirms that subject doubling in Picard is quasi-obligatory through a text examination, previously shown to be representative of the spoken language.
+
+Unlike in French, quantified subjects can appear with a subject clitic (eg "tout l'monne i s'a rbeye" ~ "tout le monde s'est regarde"). Since quantified subjects are D-linked, they must appear in Spec, IP; thus, the subject clitics cannot appear in Spec, IP. Furthermore, quantified subjects cannot be postverbal, whereas lexical subjects can be.
+
+Auger writes about the pragmatic effects of left-dislocation. She explains that dislocated lexical subjects serve to emphasize or contrast. However, there are other lexical subjects that do not receive this pragmatic effect; strong pronouns do not receive these pragmatic values, either. In this language, there is ambiguity as to when a subject is actually dislocated, as subject doubling is so consistent and there is not always an intervening element. Picard has thus developed a secondary strategy to produce pragmatic emphasis/contrast, that would have otherwise been achieved by left-dislocation in the closely-related French, through "double dislocation", the addition of another pronoun that agrees in person, gender, and number with the lexical subject. Do we find greater occurence of this in colloquial European French?
+
+Auger then argues from a prosodic standpoint that left-dislocation is not heavily marked. De Cat 2005 examined primarily pauses to determine dislocation, but Auger claims that better diagnostics are: 1) absence of enchainement between the final consonant and the onset of the following vowel at the right boundary of dislocation; 2) accentuation of the final syllable of the dislocated constituent; 3) a F0 value change at the right edge of the dislocated constituent. Under these diagnostics, doubled subjects in preverbal position do not have the profile of dislocated constituents in Picard.
+
+Finally, she finds that "ne" is still in productive use in Picard, demonstrating that it is unnecessary for "ne" to disappear for subject doubling to occur. The status of "ne" should be examined in Picard to determine if it has the same properties as French "ne". Given that it can intervene with the subject clitic and verb, it must be a clitic in Picard.
+
+Overall, the takeaway from this study is the prosodic cues of dislocation, which can be applied to French, as well as the observation that "ne" is still in use in Picard, a language with extensive subject doubling. Furthermore, the lexical subject must be found in Spec, IP, as opposed to a dislocated position.

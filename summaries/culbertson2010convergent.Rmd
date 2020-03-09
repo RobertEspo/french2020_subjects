@@ -1,11 +1,11 @@
 ---
 title: "Culbertson_2010"
+bibliography: C://Users/rober/Documents/GitHub/french2020_subjects/bib/final.bib
+csl: C://Users/rober/Documents/GitHub/french2020_subjects/bib/apa.csl
 output: word_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# @culbertson2010convergent
 
 Culbertson argues for an analysis of French subject clitics as agreement markers, instead of syntactic arguments (see:De Cat), specifically in "European Colloquial French" (in contrast to "European Standard French"). She claims that Colloquial French is in the middle of a "continous cline" (Hopper & Traugott 1993), as opposed to a discrete change, of how subject clitics are treated.She posits French subject clitics on this cline by demonstrating the continous weakening from Old French strong subject pronouns to clitics to affixes (in Colloquial French). She claims that European French speakers have access to the two separate grammars of Colloquial and Standard French, which she uses to explain variation and optionality in the data. Although she does not claim assumptions from a particular framework, she appeals to Distributed Morphology (Halle & Marantz 1993) most often to give examples of how her hypotheses would function within a framework. She uses various evidence, including experiments (AJT), prosody analysis, crosslinguistic typology, and corpora analysis (child directed speech comes from the Lyon corpus [Demuth & Tremblay 2008] while adulted directed speech comes from the PFC Corpus [Phonologie du francais contemporain, Durand et al. 2002, 2005]).
 

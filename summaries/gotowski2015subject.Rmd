@@ -1,11 +1,11 @@
 ---
 title: "Gotowski_2015"
 output: word_document
+bibliography: C://Users/rober/Documents/GitHub/french2020_subjects/bib/final.bib
+csl: C://Users/rober/Documents/GitHub/french2020_subjects/bib/apa.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# @gotowski2015subject
 
 Gotowski outlines a syntactic and a morphological approach to subjects in French, where they can be treated as either syntactic arguments or as preverbal inflectional affixes respectively, in both child and adult French despite contrasting data. Gotowski proposes another approach, the “developmental” approach”, influenced by competition-based models of language acquisition. She claims that the contrast between child and adult speech in respect to subjects can be explained by children and adults having two separate grammars. Children treat subjects as preverbal affixes (morphological approach), whereas adults treat subjects as syntactic arguments (syntactic approach). Children then adopt the syntactic approach as that grammar is rewarded more as they grow.
 

@@ -1,11 +1,11 @@
 ---
 title: "Poletto&Tortora 1993"
 output: word_document
+bibliography: C://Users/rober/Documents/GitHub/french2020_subjects/bib/final.bib
+csl: C://Users/rober/Documents/GitHub/french2020_subjects/bib/apa.csl
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# @poletto_tortora
 
 Poletto & Tortora describe the subject clitics of languages found in northern Italy and southern France.
 
