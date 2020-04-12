@@ -1,0 +1,271 @@
+"","participant","lang_1","lang_2","region","age","l2_rating","native","l2","item_num","item_text","item_response","e.c_1.0","m_f","condition","repeated_pro","canada_specific_pro","exp_con"
+"95",4,"French","","France",NA,NA,1,0,2,"Chacun veut avoir raison",4,0,NA,1,NA,0,1
+"97",4,"French","","France",NA,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"100",4,"French","","France",NA,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"106",4,"French","","France",NA,NA,1,0,13,"Tous mes amis, sont partis en vacances",5,0,"f",1,NA,0,1
+"108",4,"French","","France",NA,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"110",4,"French","","France",NA,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"111",4,"French","","France",NA,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"114",4,"French","","France",NA,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"116",4,"French","","France",NA,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"117",4,"French","","France",NA,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"126",5,"French","","Belgium",NA,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"128",5,"French","","Belgium",NA,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"131",5,"French","","Belgium",NA,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"137",5,"French","","Belgium",NA,NA,1,0,13,"Tous mes amis, sont partis en vacances",1,0,"f",1,NA,0,1
+"139",5,"French","","Belgium",NA,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"141",5,"French","","Belgium",NA,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"142",5,"French","","Belgium",NA,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"145",5,"French","","Belgium",NA,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"147",5,"French","","Belgium",NA,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"148",5,"French","","Belgium",NA,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"157",6,"French","","France",NA,NA,1,0,2,"Chacun veut avoir raison",3,0,NA,1,NA,0,1
+"159",6,"French","","France",NA,NA,1,0,4,"Tous sont d'accord",4,0,NA,1,NA,0,1
+"162",6,"French","","France",NA,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"168",6,"French","","France",NA,NA,1,0,13,"Tous mes amis, sont partis en vacances",3,0,"f",1,NA,0,1
+"170",6,"French","","France",NA,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"172",6,"French","","France",NA,NA,1,0,17,"Aucun enfant a le droit de faire ca",3,0,NA,1,NA,0,1
+"173",6,"French","","France",NA,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"176",6,"French","","France",NA,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"178",6,"French","","France",NA,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"179",6,"French","","France",NA,NA,1,0,24,"Jean, il boit et mange toute la journee",2,NA,"m",2,0,0,1
+"436",15,"Ede Caabe","French","Benin",NA,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"438",15,"Ede Caabe","French","Benin",NA,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"441",15,"Ede Caabe","French","Benin",NA,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"447",15,"Ede Caabe","French","Benin",NA,NA,1,0,13,"Tous mes amis, sont partis en vacances",5,0,"f",1,NA,0,1
+"449",15,"Ede Caabe","French","Benin",NA,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"451",15,"Ede Caabe","French","Benin",NA,NA,1,0,17,"Aucun enfant a le droit de faire ca",3,0,NA,1,NA,0,1
+"452",15,"Ede Caabe","French","Benin",NA,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"455",15,"Ede Caabe","French","Benin",NA,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"457",15,"Ede Caabe","French","Benin",NA,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"458",15,"Ede Caabe","French","Benin",NA,NA,1,0,24,"Jean, il boit et mange toute la journee",3,NA,"m",2,0,0,1
+"498",17,"French","","Belgium",NA,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"500",17,"French","","Belgium",NA,NA,1,0,4,"Tous sont d'accord",3,0,NA,1,NA,0,1
+"503",17,"French","","Belgium",NA,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"509",17,"French","","Belgium",NA,NA,1,0,13,"Tous mes amis, sont partis en vacances",5,0,"f",1,NA,0,1
+"511",17,"French","","Belgium",NA,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"513",17,"French","","Belgium",NA,NA,1,0,17,"Aucun enfant a le droit de faire ca",4,0,NA,1,NA,0,1
+"514",17,"French","","Belgium",NA,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",4,1,"f",1,NA,0,1
+"517",17,"French","","Belgium",NA,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"519",17,"French","","Belgium",NA,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"520",17,"French","","Belgium",NA,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"591",20,"French","","Guayana",13,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"593",20,"French","","Guayana",13,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"596",20,"French","","Guayana",13,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"602",20,"French","","Guayana",13,NA,1,0,13,"Tous mes amis, sont partis en vacances",5,0,"f",1,NA,0,1
+"604",20,"French","","Guayana",13,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"606",20,"French","","Guayana",13,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"607",20,"French","","Guayana",13,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"610",20,"French","","Guayana",13,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"612",20,"French","","Guayana",13,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"613",20,"French","","Guayana",13,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"653",22,"French","","France",22,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"655",22,"French","","France",22,NA,1,0,4,"Tous sont d'accord",3,0,NA,1,NA,0,1
+"658",22,"French","","France",22,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"664",22,"French","","France",22,NA,1,0,13,"Tous mes amis, sont partis en vacances",4,0,"f",1,NA,0,1
+"666",22,"French","","France",22,NA,1,0,15,"Quelques amis sont venus",4,0,"m",1,NA,0,1
+"668",22,"French","","France",22,NA,1,0,17,"Aucun enfant a le droit de faire ca",4,0,NA,1,NA,0,1
+"669",22,"French","","France",22,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"672",22,"French","","France",22,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"674",22,"French","","France",22,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"675",22,"French","","France",22,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"684",23,"French","","France",NA,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"686",23,"French","","France",NA,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"689",23,"French","","France",NA,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"695",23,"French","","France",NA,NA,1,0,13,"Tous mes amis, sont partis en vacances",4,0,"f",1,NA,0,1
+"697",23,"French","","France",NA,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"699",23,"French","","France",NA,NA,1,0,17,"Aucun enfant a le droit de faire ca",4,0,NA,1,NA,0,1
+"700",23,"French","","France",NA,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"703",23,"French","","France",NA,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"705",23,"French","","France",NA,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"706",23,"French","","France",NA,NA,1,0,24,"Jean, il boit et mange toute la journee",3,NA,"m",2,0,0,1
+"715",24,"French","","France",29,NA,1,0,2,"Chacun veut avoir raison",3,0,NA,1,NA,0,1
+"717",24,"French","","France",29,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"720",24,"French","","France",29,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"726",24,"French","","France",29,NA,1,0,13,"Tous mes amis, sont partis en vacances",3,0,"f",1,NA,0,1
+"728",24,"French","","France",29,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"730",24,"French","","France",29,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"731",24,"French","","France",29,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"734",24,"French","","France",29,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"736",24,"French","","France",29,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"737",24,"French","","France",29,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"746",25,"French","","France",30,NA,1,0,2,"Chacun veut avoir raison",4,0,NA,1,NA,0,1
+"748",25,"French","","France",30,NA,1,0,4,"Tous sont d'accord",4,0,NA,1,NA,0,1
+"751",25,"French","","France",30,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"757",25,"French","","France",30,NA,1,0,13,"Tous mes amis, sont partis en vacances",4,0,"f",1,NA,0,1
+"759",25,"French","","France",30,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"761",25,"French","","France",30,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"762",25,"French","","France",30,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"765",25,"French","","France",30,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"767",25,"French","","France",30,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"768",25,"French","","France",30,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"808",27,"French","","France",28,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"810",27,"French","","France",28,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"813",27,"French","","France",28,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"819",27,"French","","France",28,NA,1,0,13,"Tous mes amis, sont partis en vacances",5,0,"f",1,NA,0,1
+"821",27,"French","","France",28,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"823",27,"French","","France",28,NA,1,0,17,"Aucun enfant a le droit de faire ca",1,0,NA,1,NA,0,1
+"824",27,"French","","France",28,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"827",27,"French","","France",28,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"829",27,"French","","France",28,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"830",27,"French","","France",28,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"839",28,"French","","France",23,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"841",28,"French","","France",23,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"844",28,"French","","France",23,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"850",28,"French","","France",23,NA,1,0,13,"Tous mes amis, sont partis en vacances",1,0,"f",1,NA,0,1
+"852",28,"French","","France",23,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"854",28,"French","","France",23,NA,1,0,17,"Aucun enfant a le droit de faire ca",2,0,NA,1,NA,0,1
+"855",28,"French","","France",23,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"858",28,"French","","France",23,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"860",28,"French","","France",23,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"861",28,"French","","France",23,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"932",31,"French","","Canada",37,NA,1,0,2,"Chacun veut avoir raison",4,0,NA,1,NA,0,1
+"934",31,"French","","Canada",37,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"937",31,"French","","Canada",37,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"943",31,"French","","Canada",37,NA,1,0,13,"Tous mes amis, sont partis en vacances",2,0,"f",1,NA,0,1
+"945",31,"French","","Canada",37,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"947",31,"French","","Canada",37,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"948",31,"French","","Canada",37,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"951",31,"French","","Canada",37,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",4,0,NA,1,NA,0,1
+"953",31,"French","","Canada",37,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"954",31,"French","","Canada",37,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"994",33,"French","","Canada",24,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"996",33,"French","","Canada",24,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"999",33,"French","","Canada",24,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1005",33,"French","","Canada",24,NA,1,0,13,"Tous mes amis, sont partis en vacances",5,0,"f",1,NA,0,1
+"1007",33,"French","","Canada",24,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1009",33,"French","","Canada",24,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1010",33,"French","","Canada",24,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1013",33,"French","","Canada",24,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1015",33,"French","","Canada",24,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1016",33,"French","","Canada",24,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1025",34,"French","","Canada",35,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1027",34,"French","","Canada",35,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1030",34,"French","","Canada",35,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1036",34,"French","","Canada",35,NA,1,0,13,"Tous mes amis, sont partis en vacances",5,0,"f",1,NA,0,1
+"1038",34,"French","","Canada",35,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1040",34,"French","","Canada",35,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1041",34,"French","","Canada",35,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1044",34,"French","","Canada",35,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1046",34,"French","","Canada",35,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1047",34,"French","","Canada",35,NA,1,0,24,"Jean, il boit et mange toute la journee",4,NA,"m",2,0,0,1
+"1056",35,"French","","Canada",22,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1058",35,"French","","Canada",22,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1061",35,"French","","Canada",22,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1067",35,"French","","Canada",22,NA,1,0,13,"Tous mes amis, sont partis en vacances",4,0,"f",1,NA,0,1
+"1069",35,"French","","Canada",22,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1071",35,"French","","Canada",22,NA,1,0,17,"Aucun enfant a le droit de faire ca",4,0,NA,1,NA,0,1
+"1072",35,"French","","Canada",22,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1075",35,"French","","Canada",22,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1077",35,"French","","Canada",22,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1078",35,"French","","Canada",22,NA,1,0,24,"Jean, il boit et mange toute la journee",4,NA,"m",2,0,0,1
+"1087",36,"French","","Canada",30,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1089",36,"French","","Canada",30,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1092",36,"French","","Canada",30,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1098",36,"French","","Canada",30,NA,1,0,13,"Tous mes amis, sont partis en vacances",3,0,"f",1,NA,0,1
+"1100",36,"French","","Canada",30,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1102",36,"French","","Canada",30,NA,1,0,17,"Aucun enfant a le droit de faire ca",4,0,NA,1,NA,0,1
+"1103",36,"French","","Canada",30,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1106",36,"French","","Canada",30,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1108",36,"French","","Canada",30,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1109",36,"French","","Canada",30,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1118",37,"French","","Canada",29,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1120",37,"French","","Canada",29,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1123",37,"French","","Canada",29,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1129",37,"French","","Canada",29,NA,1,0,13,"Tous mes amis, sont partis en vacances",4,0,"f",1,NA,0,1
+"1131",37,"French","","Canada",29,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1133",37,"French","","Canada",29,NA,1,0,17,"Aucun enfant a le droit de faire ca",1,0,NA,1,NA,0,1
+"1134",37,"French","","Canada",29,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1137",37,"French","","Canada",29,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1139",37,"French","","Canada",29,NA,1,0,23,"Peu de gens ont accord une assurance sante",3,0,NA,1,NA,0,1
+"1140",37,"French","","Canada",29,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1149",38,"French","","Canada",24,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1151",38,"French","","Canada",24,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1154",38,"French","","Canada",24,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1160",38,"French","","Canada",24,NA,1,0,13,"Tous mes amis, sont partis en vacances",5,0,"f",1,NA,0,1
+"1162",38,"French","","Canada",24,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1164",38,"French","","Canada",24,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1165",38,"French","","Canada",24,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1168",38,"French","","Canada",24,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1170",38,"French","","Canada",24,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1171",38,"French","","Canada",24,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1180",39,"French","","Canada",35,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1182",39,"French","","Canada",35,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1185",39,"French","","Canada",35,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1191",39,"French","","Canada",35,NA,1,0,13,"Tous mes amis, sont partis en vacances",2,0,"f",1,NA,0,1
+"1193",39,"French","","Canada",35,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1195",39,"French","","Canada",35,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1196",39,"French","","Canada",35,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1199",39,"French","","Canada",35,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1201",39,"French","","Canada",35,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1202",39,"French","","Canada",35,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1211",40,"French","","Canada",50,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1213",40,"French","","Canada",50,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1216",40,"French","","Canada",50,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1222",40,"French","","Canada",50,NA,1,0,13,"Tous mes amis, sont partis en vacances",3,0,"f",1,NA,0,1
+"1224",40,"French","","Canada",50,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1226",40,"French","","Canada",50,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1227",40,"French","","Canada",50,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1230",40,"French","","Canada",50,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1232",40,"French","","Canada",50,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1233",40,"French","","Canada",50,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1242",41,"French","","Canada",40,NA,1,0,2,"Chacun veut avoir raison",3,0,NA,1,NA,0,1
+"1244",41,"French","","Canada",40,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1247",41,"French","","Canada",40,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1253",41,"French","","Canada",40,NA,1,0,13,"Tous mes amis, sont partis en vacances",3,0,"f",1,NA,0,1
+"1255",41,"French","","Canada",40,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1257",41,"French","","Canada",40,NA,1,0,17,"Aucun enfant a le droit de faire ca",4,0,NA,1,NA,0,1
+"1258",41,"French","","Canada",40,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1261",41,"French","","Canada",40,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1263",41,"French","","Canada",40,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1264",41,"French","","Canada",40,NA,1,0,24,"Jean, il boit et mange toute la journee",4,NA,"m",2,0,0,1
+"1273",42,"French","","Canada",25,NA,1,0,2,"Chacun veut avoir raison",4,0,NA,1,NA,0,1
+"1275",42,"French","","Canada",25,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1278",42,"French","","Canada",25,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1284",42,"French","","Canada",25,NA,1,0,13,"Tous mes amis, sont partis en vacances",2,0,"f",1,NA,0,1
+"1286",42,"French","","Canada",25,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1288",42,"French","","Canada",25,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1289",42,"French","","Canada",25,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1292",42,"French","","Canada",25,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1294",42,"French","","Canada",25,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1295",42,"French","","Canada",25,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1304",43,"French","","Canada",28,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1306",43,"French","","Canada",28,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1309",43,"French","","Canada",28,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1315",43,"French","","Canada",28,NA,1,0,13,"Tous mes amis, sont partis en vacances",4,0,"f",1,NA,0,1
+"1317",43,"French","","Canada",28,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1319",43,"French","","Canada",28,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1320",43,"French","","Canada",28,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1323",43,"French","","Canada",28,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",4,0,NA,1,NA,0,1
+"1325",43,"French","","Canada",28,NA,1,0,23,"Peu de gens ont accord une assurance sante",4,0,NA,1,NA,0,1
+"1326",43,"French","","Canada",28,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1335",44,"French","","Canada",28,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1337",44,"French","","Canada",28,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1340",44,"French","","Canada",28,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1346",44,"French","","Canada",28,NA,1,0,13,"Tous mes amis, sont partis en vacances",1,0,"f",1,NA,0,1
+"1348",44,"French","","Canada",28,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1350",44,"French","","Canada",28,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1351",44,"French","","Canada",28,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1354",44,"French","","Canada",28,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",4,0,NA,1,NA,0,1
+"1356",44,"French","","Canada",28,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1357",44,"French","","Canada",28,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1366",45,"French","","Canada",25,NA,1,0,2,"Chacun veut avoir raison",2,0,NA,1,NA,0,1
+"1368",45,"French","","Canada",25,NA,1,0,4,"Tous sont d'accord",3,0,NA,1,NA,0,1
+"1371",45,"French","","Canada",25,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1377",45,"French","","Canada",25,NA,1,0,13,"Tous mes amis, sont partis en vacances",4,0,"f",1,NA,0,1
+"1379",45,"French","","Canada",25,NA,1,0,15,"Quelques amis sont venus",4,0,"m",1,NA,0,1
+"1381",45,"French","","Canada",25,NA,1,0,17,"Aucun enfant a le droit de faire ca",5,0,NA,1,NA,0,1
+"1382",45,"French","","Canada",25,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1385",45,"French","","Canada",25,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1387",45,"French","","Canada",25,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1388",45,"French","","Canada",25,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1
+"1428",47,"French","","Canada",34,NA,1,0,2,"Chacun veut avoir raison",5,0,NA,1,NA,0,1
+"1430",47,"French","","Canada",34,NA,1,0,4,"Tous sont d'accord",5,0,NA,1,NA,0,1
+"1433",47,"French","","Canada",34,NA,1,0,7,"Quelqu'un a telephone",5,0,"m",1,NA,0,1
+"1439",47,"French","","Canada",34,NA,1,0,13,"Tous mes amis, sont partis en vacances",2,0,"f",1,NA,0,1
+"1441",47,"French","","Canada",34,NA,1,0,15,"Quelques amis sont venus",5,0,"m",1,NA,0,1
+"1443",47,"French","","Canada",34,NA,1,0,17,"Aucun enfant a le droit de faire ca",4,0,NA,1,NA,0,1
+"1444",47,"French","","Canada",34,NA,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,"f",1,NA,0,1
+"1447",47,"French","","Canada",34,NA,1,0,21,"Beaucoup d'americains ont achete du papier toilette",5,0,NA,1,NA,0,1
+"1449",47,"French","","Canada",34,NA,1,0,23,"Peu de gens ont accord une assurance sante",5,0,NA,1,NA,0,1
+"1450",47,"French","","Canada",34,NA,1,0,24,"Jean, il boit et mange toute la journee",5,NA,"m",2,0,0,1

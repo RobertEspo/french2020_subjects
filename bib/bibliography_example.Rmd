@@ -8,9 +8,9 @@ csl: apa.csl
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+```{r, echo=FALSE}
 ###this cites all references in final.bib
-
+```
 # References
 
 ---

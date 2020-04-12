@@ -1,0 +1,1458 @@
+participant,lang_1,lang_2,region,age,l2_rating,native,l2,item_num,item_text,item_response,e-c_1-0,m_f,condition,repeated_pro,canada_specific_pro,exp_con
+1,English,,USA,,4,0,1,1,"Chacun, il veut avoir raison",3,1,m,1,NA,0,0
+1,English,,USA,,4,0,1,2,Chacun veut avoir raison,0,0,NA,1,NA,0,1
+1,English,,USA,,4,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+1,English,,USA,,4,0,1,4,Tous sont d'accord,0,0,NA,1,NA,0,1
+1,English,,USA,,4,0,1,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+1,English,,USA,,4,0,1,6,"Quelqu'une, elle a telephone",3,1,f,1,NA,0,0
+1,English,,USA,,4,0,1,7,Quelqu'un a telephone,0,0,m,1,NA,0,1
+1,English,,USA,,4,0,1,8,"Quelqu'un, il a telephone",2,1,m,1,NA,0,NA
+1,English,,USA,,4,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+1,English,,USA,,4,0,1,10,Personne est venu,0,NA,NA,1,NA,0,NA
+1,English,,USA,,4,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+1,English,,USA,,4,0,1,12,"Tous mes amis, ils sont partis en vacances",4,1,m,1,NA,0,0
+1,English,,USA,,4,0,1,13,"Tous mes amis, sont partis en vacances",0,0,f,1,NA,0,1
+1,English,,USA,,4,0,1,14,"Quelques amis, ils sont venus",4,1,mis,1,NA,0,0
+1,English,,USA,,4,0,1,15,Quelques amis sont venus,0,0,m,1,NA,0,1
+1,English,,USA,,4,0,1,16,"Aucun enfant, il a le droit de faire ca",4,1,m,1,NA,0,0
+1,English,,USA,,4,0,1,17,Aucun enfant a le droit de faire ca,0,0,NA,1,NA,0,1
+1,English,,USA,,4,0,1,18,"Aucune enfante, elle a le droit de faire ca",4,1,f,1,NA,0,0
+1,English,,USA,,4,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+1,English,,USA,,4,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",5,1,m,1,NA,0,0
+1,English,,USA,,4,0,1,21,Beaucoup d'americains ont achete du papier toilette,0,0,NA,1,NA,0,1
+1,English,,USA,,4,0,1,22,"Peu de gens, ils ont accord  une assurance sante",3,1,m,1,NA,0,0
+1,English,,USA,,4,0,1,23,Peu de gens ont accord une assurance sante,0,0,NA,1,NA,0,1
+1,English,,USA,,4,0,1,24,"Jean, il boit et mange toute la journee",3,NA,m,2,0,0,1
+1,English,,USA,,4,0,1,25,"Jean, il boit et il mange toute la journee",3,NA,m,2,1,0,0
+1,English,,USA,,4,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+1,English,,USA,,4,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+1,English,,USA,,4,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+1,English,,USA,,4,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+1,English,,USA,,4,0,1,30,"Marie, elle boit et elle mange toute la journee",3,NA,f,2,1,1,0
+1,English,,USA,,4,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+2,Spanish,Portuguese,France,,7,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+2,Spanish,Portuguese,France,,7,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,4,Tous sont d'accord,3,0,NA,1,NA,0,1
+2,Spanish,Portuguese,France,,7,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+2,Spanish,Portuguese,France,,7,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+2,Spanish,Portuguese,France,,7,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+2,Spanish,Portuguese,France,,7,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+2,Spanish,Portuguese,France,,7,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+2,Spanish,Portuguese,France,,7,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,13,"Tous mes amis, sont partis en vacances",1,0,f,1,NA,0,1
+2,Spanish,Portuguese,France,,7,0,1,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+2,Spanish,Portuguese,France,,7,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+2,Spanish,Portuguese,France,,7,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+2,Spanish,Portuguese,France,,7,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",4,1,m,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+2,Spanish,Portuguese,France,,7,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+2,Spanish,Portuguese,France,,7,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+2,Spanish,Portuguese,France,,7,0,1,24,"Jean, il boit et mange toute la journee",4,NA,m,2,0,0,1
+2,Spanish,Portuguese,France,,7,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+2,Spanish,Portuguese,France,,7,0,1,26,Personne il boit et mange toute la journee,2,NA,NA,2,NA,0,NA
+2,Spanish,Portuguese,France,,7,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+2,Spanish,Portuguese,France,,7,0,1,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+2,Spanish,Portuguese,France,,7,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+2,Spanish,Portuguese,France,,7,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+2,Spanish,Portuguese,France,,7,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+3,English,,USA,,6,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+3,English,,USA,,6,0,1,2,Chacun veut avoir raison,4,0,NA,1,NA,0,1
+3,English,,USA,,6,0,1,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+3,English,,USA,,6,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+3,English,,USA,,6,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+3,English,,USA,,6,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+3,English,,USA,,6,0,1,7,Quelqu'un a telephone,3,0,m,1,NA,0,1
+3,English,,USA,,6,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+3,English,,USA,,6,0,1,9,"Personne, il est venu",2,NA,m,1,NA,0,NA
+3,English,,USA,,6,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+3,English,,USA,,6,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+3,English,,USA,,6,0,1,12,"Tous mes amis, ils sont partis en vacances",4,1,m,1,NA,0,0
+3,English,,USA,,6,0,1,13,"Tous mes amis, sont partis en vacances",3,0,f,1,NA,0,1
+3,English,,USA,,6,0,1,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+3,English,,USA,,6,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+3,English,,USA,,6,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+3,English,,USA,,6,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+3,English,,USA,,6,0,1,18,"Aucune enfante, elle a le droit de faire ca",2,1,f,1,NA,0,0
+3,English,,USA,,6,0,1,19,"Aucun enfant, elle a le droit de faire ca",3,1,mis,1,NA,0,NA
+3,English,,USA,,6,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+3,English,,USA,,6,0,1,21,Beaucoup d'americains ont achete du papier toilette,4,0,NA,1,NA,0,1
+3,English,,USA,,6,0,1,22,"Peu de gens, ils ont accord  une assurance sante",3,1,m,1,NA,0,0
+3,English,,USA,,6,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+3,English,,USA,,6,0,1,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+3,English,,USA,,6,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+3,English,,USA,,6,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+3,English,,USA,,6,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+3,English,,USA,,6,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+3,English,,USA,,6,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+3,English,,USA,,6,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+3,English,,USA,,6,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+4,French,,France,,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+4,French,,France,,,1,0,2,Chacun veut avoir raison,4,0,NA,1,NA,0,1
+4,French,,France,,,1,0,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+4,French,,France,,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+4,French,,France,,,1,0,5,"Quelqu'un, il a telephone",3,1,m,1,NA,0,0
+4,French,,France,,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+4,French,,France,,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+4,French,,France,,,1,0,8,"Quelqu'un, il a telephone",3,1,m,1,NA,0,NA
+4,French,,France,,,1,0,9,"Personne, il est venu",3,NA,m,1,NA,0,NA
+4,French,,France,,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+4,French,,France,,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+4,French,,France,,,1,0,12,"Tous mes amis, ils sont partis en vacances",3,1,m,1,NA,0,0
+4,French,,France,,,1,0,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+4,French,,France,,,1,0,14,"Quelques amis, ils sont venus",3,1,mis,1,NA,0,0
+4,French,,France,,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+4,French,,France,,,1,0,16,"Aucun enfant, il a le droit de faire ca",3,1,m,1,NA,0,0
+4,French,,France,,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+4,French,,France,,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+4,French,,France,,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+4,French,,France,,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",3,1,m,1,NA,0,0
+4,French,,France,,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+4,French,,France,,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",3,1,m,1,NA,0,0
+4,French,,France,,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+4,French,,France,,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+4,French,,France,,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+4,French,,France,,,1,0,26,Personne il boit et mange toute la journee,5,NA,NA,2,NA,0,NA
+4,French,,France,,,1,0,27,Personne il boit et il mange toute la journee,5,NA,NA,2,NA,0,NA
+4,French,,France,,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+4,French,,France,,,1,0,29,Personne i boit et i mange toute la journee,5,NA,NA,2,NA,0,NA
+4,French,,France,,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+4,French,,France,,,1,0,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+5,French,,Belgium,,,1,0,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+5,French,,Belgium,,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+5,French,,Belgium,,,1,0,3,"Tous, ils sont d'accord",5,1,m,1,NA,0,0
+5,French,,Belgium,,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+5,French,,Belgium,,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+5,French,,Belgium,,,1,0,6,"Quelqu'une, elle a telephone",2,1,f,1,NA,0,0
+5,French,,Belgium,,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+5,French,,Belgium,,,1,0,8,"Quelqu'un, il a telephone",2,1,m,1,NA,0,NA
+5,French,,Belgium,,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+5,French,,Belgium,,,1,0,10,Personne est venu,4,NA,NA,1,NA,0,NA
+5,French,,Belgium,,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+5,French,,Belgium,,,1,0,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+5,French,,Belgium,,,1,0,13,"Tous mes amis, sont partis en vacances",1,0,f,1,NA,0,1
+5,French,,Belgium,,,1,0,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+5,French,,Belgium,,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+5,French,,Belgium,,,1,0,16,"Aucun enfant, il a le droit de faire ca",2,1,m,1,NA,0,0
+5,French,,Belgium,,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+5,French,,Belgium,,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+5,French,,Belgium,,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+5,French,,Belgium,,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+5,French,,Belgium,,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+5,French,,Belgium,,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",3,1,m,1,NA,0,0
+5,French,,Belgium,,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+5,French,,Belgium,,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+5,French,,Belgium,,,1,0,25,"Jean, il boit et il mange toute la journee",3,NA,m,2,1,0,0
+5,French,,Belgium,,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+5,French,,Belgium,,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+5,French,,Belgium,,,1,0,28,"Andre, i mange et i boit toute la journee",4,NA,m,2,1,1,0
+5,French,,Belgium,,,1,0,29,Personne i boit et i mange toute la journee,3,NA,NA,2,NA,0,NA
+5,French,,Belgium,,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+5,French,,Belgium,,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+6,French,,France,,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+6,French,,France,,,1,0,2,Chacun veut avoir raison,3,0,NA,1,NA,0,1
+6,French,,France,,,1,0,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+6,French,,France,,,1,0,4,Tous sont d'accord,4,0,NA,1,NA,0,1
+6,French,,France,,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+6,French,,France,,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+6,French,,France,,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+6,French,,France,,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+6,French,,France,,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+6,French,,France,,,1,0,10,Personne est venu,2,NA,NA,1,NA,0,NA
+6,French,,France,,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+6,French,,France,,,1,0,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+6,French,,France,,,1,0,13,"Tous mes amis, sont partis en vacances",3,0,f,1,NA,0,1
+6,French,,France,,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+6,French,,France,,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+6,French,,France,,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+6,French,,France,,,1,0,17,Aucun enfant a le droit de faire ca,3,0,NA,1,NA,0,1
+6,French,,France,,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+6,French,,France,,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+6,French,,France,,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+6,French,,France,,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+6,French,,France,,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+6,French,,France,,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+6,French,,France,,,1,0,24,"Jean, il boit et mange toute la journee",2,NA,m,2,0,0,1
+6,French,,France,,,1,0,25,"Jean, il boit et il mange toute la journee",1,NA,m,2,1,0,0
+6,French,,France,,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+6,French,,France,,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+6,French,,France,,,1,0,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+6,French,,France,,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+6,French,,France,,,1,0,30,"Marie, elle boit et elle mange toute la journee",1,NA,f,2,1,1,0
+6,French,,France,,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+7,English,French,USA,,10,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+7,English,French,USA,,10,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+7,English,French,USA,,10,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+7,English,French,USA,,10,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+7,English,French,USA,,10,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+7,English,French,USA,,10,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+7,English,French,USA,,10,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+7,English,French,USA,,10,0,1,8,"Quelqu'un, il a telephone",3,1,m,1,NA,0,NA
+7,English,French,USA,,10,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+7,English,French,USA,,10,0,1,10,Personne est venu,2,NA,NA,1,NA,0,NA
+7,English,French,USA,,10,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+7,English,French,USA,,10,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+7,English,French,USA,,10,0,1,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+7,English,French,USA,,10,0,1,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+7,English,French,USA,,10,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+7,English,French,USA,,10,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+7,English,French,USA,,10,0,1,17,Aucun enfant a le droit de faire ca,2,0,NA,1,NA,0,1
+7,English,French,USA,,10,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+7,English,French,USA,,10,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+7,English,French,USA,,10,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+7,English,French,USA,,10,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+7,English,French,USA,,10,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+7,English,French,USA,,10,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+7,English,French,USA,,10,0,1,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+7,English,French,USA,,10,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+7,English,French,USA,,10,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+7,English,French,USA,,10,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+7,English,French,USA,,10,0,1,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+7,English,French,USA,,10,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+7,English,French,USA,,10,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+7,English,French,USA,,10,0,1,31,"Marie, a boit et a mange toute la journee",3,NA,f,2,1,1,0
+8,Greek,,USA,,7,0,1,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+8,Greek,,USA,,7,0,1,2,Chacun veut avoir raison,4,0,NA,1,NA,0,1
+8,Greek,,USA,,7,0,1,3,"Tous, ils sont d'accord",5,1,m,1,NA,0,0
+8,Greek,,USA,,7,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+8,Greek,,USA,,7,0,1,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+8,Greek,,USA,,7,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+8,Greek,,USA,,7,0,1,7,Quelqu'un a telephone,4,0,m,1,NA,0,1
+8,Greek,,USA,,7,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+8,Greek,,USA,,7,0,1,9,"Personne, il est venu",2,NA,m,1,NA,0,NA
+8,Greek,,USA,,7,0,1,10,Personne est venu,4,NA,NA,1,NA,0,NA
+8,Greek,,USA,,7,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+8,Greek,,USA,,7,0,1,12,"Tous mes amis, ils sont partis en vacances",4,1,m,1,NA,0,0
+8,Greek,,USA,,7,0,1,13,"Tous mes amis, sont partis en vacances",1,0,f,1,NA,0,1
+8,Greek,,USA,,7,0,1,14,"Quelques amis, ils sont venus",3,1,mis,1,NA,0,0
+8,Greek,,USA,,7,0,1,15,Quelques amis sont venus,4,0,m,1,NA,0,1
+8,Greek,,USA,,7,0,1,16,"Aucun enfant, il a le droit de faire ca",2,1,m,1,NA,0,0
+8,Greek,,USA,,7,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+8,Greek,,USA,,7,0,1,18,"Aucune enfante, elle a le droit de faire ca",4,1,f,1,NA,0,0
+8,Greek,,USA,,7,0,1,19,"Aucun enfant, elle a le droit de faire ca",2,1,mis,1,NA,0,NA
+8,Greek,,USA,,7,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+8,Greek,,USA,,7,0,1,21,Beaucoup d'americains ont achete du papier toilette,4,0,NA,1,NA,0,1
+8,Greek,,USA,,7,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+8,Greek,,USA,,7,0,1,23,Peu de gens ont accord une assurance sante,4,0,NA,1,NA,0,1
+8,Greek,,USA,,7,0,1,24,"Jean, il boit et mange toute la journee",1,NA,m,2,0,0,1
+8,Greek,,USA,,7,0,1,25,"Jean, il boit et il mange toute la journee",3,NA,m,2,1,0,0
+8,Greek,,USA,,7,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+8,Greek,,USA,,7,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+8,Greek,,USA,,7,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+8,Greek,,USA,,7,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+8,Greek,,USA,,7,0,1,30,"Marie, elle boit et elle mange toute la journee",3,NA,f,2,1,1,0
+8,Greek,,USA,,7,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+9,English,,France,,5,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+9,English,,France,,5,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+9,English,,France,,5,0,1,3,"Tous, ils sont d'accord",3,1,m,1,NA,0,0
+9,English,,France,,5,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+9,English,,France,,5,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+9,English,,France,,5,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+9,English,,France,,5,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+9,English,,France,,5,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+9,English,,France,,5,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+9,English,,France,,5,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+9,English,,France,,5,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+9,English,,France,,5,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+9,English,,France,,5,0,1,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+9,English,,France,,5,0,1,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+9,English,,France,,5,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+9,English,,France,,5,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+9,English,,France,,5,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+9,English,,France,,5,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+9,English,,France,,5,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+9,English,,France,,5,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",3,1,m,1,NA,0,0
+9,English,,France,,5,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+9,English,,France,,5,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+9,English,,France,,5,0,1,23,Peu de gens ont accord une assurance sante,4,0,NA,1,NA,0,1
+9,English,,France,,5,0,1,24,"Jean, il boit et mange toute la journee",2,NA,m,2,0,0,1
+9,English,,France,,5,0,1,25,"Jean, il boit et il mange toute la journee",3,NA,m,2,1,0,0
+9,English,,France,,5,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+9,English,,France,,5,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+9,English,,France,,5,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+9,English,,France,,5,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+9,English,,France,,5,0,1,30,"Marie, elle boit et elle mange toute la journee",2,NA,f,2,1,1,0
+9,English,,France,,5,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+10,English,Czech,USA,,7,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+10,English,Czech,USA,,7,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+10,English,Czech,USA,,7,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+10,English,Czech,USA,,7,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+10,English,Czech,USA,,7,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+10,English,Czech,USA,,7,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+10,English,Czech,USA,,7,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+10,English,Czech,USA,,7,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+10,English,Czech,USA,,7,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+10,English,Czech,USA,,7,0,1,10,Personne est venu,2,NA,NA,1,NA,0,NA
+10,English,Czech,USA,,7,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+10,English,Czech,USA,,7,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+10,English,Czech,USA,,7,0,1,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+10,English,Czech,USA,,7,0,1,14,"Quelques amis, ils sont venus",3,1,mis,1,NA,0,0
+10,English,Czech,USA,,7,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+10,English,Czech,USA,,7,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+10,English,Czech,USA,,7,0,1,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+10,English,Czech,USA,,7,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+10,English,Czech,USA,,7,0,1,19,"Aucun enfant, elle a le droit de faire ca",0,1,mis,1,NA,0,NA
+10,English,Czech,USA,,7,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+10,English,Czech,USA,,7,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+10,English,Czech,USA,,7,0,1,22,"Peu de gens, ils ont accord  une assurance sante",4,1,m,1,NA,0,0
+10,English,Czech,USA,,7,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+10,English,Czech,USA,,7,0,1,24,"Jean, il boit et mange toute la journee",4,NA,m,2,0,0,1
+10,English,Czech,USA,,7,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+10,English,Czech,USA,,7,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+10,English,Czech,USA,,7,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+10,English,Czech,USA,,7,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+10,English,Czech,USA,,7,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+10,English,Czech,USA,,7,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+10,English,Czech,USA,,7,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+11,Creole,French,Haiti,,7,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+11,Creole,French,Haiti,,7,0,1,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+11,Creole,French,Haiti,,7,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,6,"Quelqu'une, elle a telephone",5,1,f,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+11,Creole,French,Haiti,,7,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+11,Creole,French,Haiti,,7,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+11,Creole,French,Haiti,,7,0,1,10,Personne est venu,3,NA,NA,1,NA,0,NA
+11,Creole,French,Haiti,,7,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+11,Creole,French,Haiti,,7,0,1,12,"Tous mes amis, ils sont partis en vacances",3,1,m,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+11,Creole,French,Haiti,,7,0,1,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+11,Creole,French,Haiti,,7,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+11,Creole,French,Haiti,,7,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+11,Creole,French,Haiti,,7,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,21,Beaucoup d'americains ont achete du papier toilette,1,0,NA,1,NA,0,1
+11,Creole,French,Haiti,,7,0,1,22,"Peu de gens, ils ont accord  une assurance sante",3,1,m,1,NA,0,0
+11,Creole,French,Haiti,,7,0,1,23,Peu de gens ont accord une assurance sante,0,0,NA,1,NA,0,1
+11,Creole,French,Haiti,,7,0,1,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+11,Creole,French,Haiti,,7,0,1,25,"Jean, il boit et il mange toute la journee",4,NA,m,2,1,0,0
+11,Creole,French,Haiti,,7,0,1,26,Personne il boit et mange toute la journee,5,NA,NA,2,NA,0,NA
+11,Creole,French,Haiti,,7,0,1,27,Personne il boit et il mange toute la journee,4,NA,NA,2,NA,0,NA
+11,Creole,French,Haiti,,7,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+11,Creole,French,Haiti,,7,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+11,Creole,French,Haiti,,7,0,1,30,"Marie, elle boit et elle mange toute la journee",3,NA,f,2,1,1,0
+11,Creole,French,Haiti,,7,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+12,Marathi,English,USA,,7,0,1,1,"Chacun, il veut avoir raison",4,1,m,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+12,Marathi,English,USA,,7,0,1,3,"Tous, ils sont d'accord",5,1,m,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+12,Marathi,English,USA,,7,0,1,5,"Quelqu'un, il a telephone",4,1,m,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,6,"Quelqu'une, elle a telephone",2,1,f,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+12,Marathi,English,USA,,7,0,1,8,"Quelqu'un, il a telephone",5,1,m,1,NA,0,NA
+12,Marathi,English,USA,,7,0,1,9,"Personne, il est venu",2,NA,m,1,NA,0,NA
+12,Marathi,English,USA,,7,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+12,Marathi,English,USA,,7,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+12,Marathi,English,USA,,7,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+12,Marathi,English,USA,,7,0,1,14,"Quelques amis, ils sont venus",5,1,mis,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+12,Marathi,English,USA,,7,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+12,Marathi,English,USA,,7,0,1,18,"Aucune enfante, elle a le droit de faire ca",5,1,f,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,19,"Aucun enfant, elle a le droit de faire ca",3,1,mis,1,NA,0,NA
+12,Marathi,English,USA,,7,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",4,1,m,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+12,Marathi,English,USA,,7,0,1,22,"Peu de gens, ils ont accord  une assurance sante",4,1,m,1,NA,0,0
+12,Marathi,English,USA,,7,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+12,Marathi,English,USA,,7,0,1,24,"Jean, il boit et mange toute la journee",4,NA,m,2,0,0,1
+12,Marathi,English,USA,,7,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+12,Marathi,English,USA,,7,0,1,26,Personne il boit et mange toute la journee,2,NA,NA,2,NA,0,NA
+12,Marathi,English,USA,,7,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+12,Marathi,English,USA,,7,0,1,28,"Andre, i mange et i boit toute la journee",2,NA,m,2,1,1,0
+12,Marathi,English,USA,,7,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+12,Marathi,English,USA,,7,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+12,Marathi,English,USA,,7,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+13,English,,USA,,5,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+13,English,,USA,,5,0,1,2,Chacun veut avoir raison,2,0,NA,1,NA,0,1
+13,English,,USA,,5,0,1,3,"Tous, ils sont d'accord",4,1,m,1,NA,0,0
+13,English,,USA,,5,0,1,4,Tous sont d'accord,4,0,NA,1,NA,0,1
+13,English,,USA,,5,0,1,5,"Quelqu'un, il a telephone",4,1,m,1,NA,0,0
+13,English,,USA,,5,0,1,6,"Quelqu'une, elle a telephone",4,1,f,1,NA,0,0
+13,English,,USA,,5,0,1,7,Quelqu'un a telephone,4,0,m,1,NA,0,1
+13,English,,USA,,5,0,1,8,"Quelqu'un, il a telephone",2,1,m,1,NA,0,NA
+13,English,,USA,,5,0,1,9,"Personne, il est venu",4,NA,m,1,NA,0,NA
+13,English,,USA,,5,0,1,10,Personne est venu,3,NA,NA,1,NA,0,NA
+13,English,,USA,,5,0,1,11,"Personne, elle est venu",2,NA,NA,1,NA,0,NA
+13,English,,USA,,5,0,1,12,"Tous mes amis, ils sont partis en vacances",3,1,m,1,NA,0,0
+13,English,,USA,,5,0,1,13,"Tous mes amis, sont partis en vacances",1,0,f,1,NA,0,1
+13,English,,USA,,5,0,1,14,"Quelques amis, ils sont venus",3,1,mis,1,NA,0,0
+13,English,,USA,,5,0,1,15,Quelques amis sont venus,4,0,m,1,NA,0,1
+13,English,,USA,,5,0,1,16,"Aucun enfant, il a le droit de faire ca",4,1,m,1,NA,0,0
+13,English,,USA,,5,0,1,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+13,English,,USA,,5,0,1,18,"Aucune enfante, elle a le droit de faire ca",4,1,f,1,NA,0,0
+13,English,,USA,,5,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+13,English,,USA,,5,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",5,1,m,1,NA,0,0
+13,English,,USA,,5,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+13,English,,USA,,5,0,1,22,"Peu de gens, ils ont accord  une assurance sante",3,1,m,1,NA,0,0
+13,English,,USA,,5,0,1,23,Peu de gens ont accord une assurance sante,3,0,NA,1,NA,0,1
+13,English,,USA,,5,0,1,24,"Jean, il boit et mange toute la journee",2,NA,m,2,0,0,1
+13,English,,USA,,5,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+13,English,,USA,,5,0,1,26,Personne il boit et mange toute la journee,2,NA,NA,2,NA,0,NA
+13,English,,USA,,5,0,1,27,Personne il boit et il mange toute la journee,2,NA,NA,2,NA,0,NA
+13,English,,USA,,5,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+13,English,,USA,,5,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+13,English,,USA,,5,0,1,30,"Marie, elle boit et elle mange toute la journee",4,NA,f,2,1,1,0
+13,English,,USA,,5,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+14,English,,Ireland,,7,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+14,English,,Ireland,,7,0,1,2,Chacun veut avoir raison,4,0,NA,1,NA,0,1
+14,English,,Ireland,,7,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+14,English,,Ireland,,7,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+14,English,,Ireland,,7,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+14,English,,Ireland,,7,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+14,English,,Ireland,,7,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+14,English,,Ireland,,7,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+14,English,,Ireland,,7,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+14,English,,Ireland,,7,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+14,English,,Ireland,,7,0,1,11,"Personne, elle est venu",0,NA,NA,1,NA,0,NA
+14,English,,Ireland,,7,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+14,English,,Ireland,,7,0,1,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+14,English,,Ireland,,7,0,1,14,"Quelques amis, ils sont venus",5,1,mis,1,NA,0,0
+14,English,,Ireland,,7,0,1,15,Quelques amis sont venus,1,0,m,1,NA,0,1
+14,English,,Ireland,,7,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+14,English,,Ireland,,7,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+14,English,,Ireland,,7,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+14,English,,Ireland,,7,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+14,English,,Ireland,,7,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",5,1,m,1,NA,0,0
+14,English,,Ireland,,7,0,1,21,Beaucoup d'americains ont achete du papier toilette,3,0,NA,1,NA,0,1
+14,English,,Ireland,,7,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+14,English,,Ireland,,7,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+14,English,,Ireland,,7,0,1,24,"Jean, il boit et mange toute la journee",1,NA,m,2,0,0,1
+14,English,,Ireland,,7,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+14,English,,Ireland,,7,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+14,English,,Ireland,,7,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+14,English,,Ireland,,7,0,1,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+14,English,,Ireland,,7,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+14,English,,Ireland,,7,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+14,English,,Ireland,,7,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+15,Ede Caabe,French,Benin,,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+15,Ede Caabe,French,Benin,,,1,0,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+15,Ede Caabe,French,Benin,,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+15,Ede Caabe,French,Benin,,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+15,Ede Caabe,French,Benin,,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+15,Ede Caabe,French,Benin,,,1,0,10,Personne est venu,1,NA,NA,1,NA,0,NA
+15,Ede Caabe,French,Benin,,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+15,Ede Caabe,French,Benin,,,1,0,12,"Tous mes amis, ils sont partis en vacances",2,1,m,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+15,Ede Caabe,French,Benin,,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+15,Ede Caabe,French,Benin,,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,17,Aucun enfant a le droit de faire ca,3,0,NA,1,NA,0,1
+15,Ede Caabe,French,Benin,,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+15,Ede Caabe,French,Benin,,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+15,Ede Caabe,French,Benin,,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+15,Ede Caabe,French,Benin,,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+15,Ede Caabe,French,Benin,,,1,0,24,"Jean, il boit et mange toute la journee",3,NA,m,2,0,0,1
+15,Ede Caabe,French,Benin,,,1,0,25,"Jean, il boit et il mange toute la journee",3,NA,m,2,1,0,0
+15,Ede Caabe,French,Benin,,,1,0,26,Personne il boit et mange toute la journee,2,NA,NA,2,NA,0,NA
+15,Ede Caabe,French,Benin,,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+15,Ede Caabe,French,Benin,,,1,0,28,"Andre, i mange et i boit toute la journee",2,NA,m,2,1,1,0
+15,Ede Caabe,French,Benin,,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+15,Ede Caabe,French,Benin,,,1,0,30,"Marie, elle boit et elle mange toute la journee",3,NA,f,2,1,1,0
+15,Ede Caabe,French,Benin,,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+16,English,Norwegian,USA,,6,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,2,Chacun veut avoir raison,3,0,NA,1,NA,0,1
+16,English,Norwegian,USA,,6,0,1,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,4,Tous sont d'accord,2,0,NA,1,NA,0,1
+16,English,Norwegian,USA,,6,0,1,5,"Quelqu'un, il a telephone",3,1,m,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,6,"Quelqu'une, elle a telephone",2,1,f,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,7,Quelqu'un a telephone,3,0,m,1,NA,0,1
+16,English,Norwegian,USA,,6,0,1,8,"Quelqu'un, il a telephone",3,1,m,1,NA,0,NA
+16,English,Norwegian,USA,,6,0,1,9,"Personne, il est venu",2,NA,m,1,NA,0,NA
+16,English,Norwegian,USA,,6,0,1,10,Personne est venu,3,NA,NA,1,NA,0,NA
+16,English,Norwegian,USA,,6,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+16,English,Norwegian,USA,,6,0,1,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,13,"Tous mes amis, sont partis en vacances",3,0,f,1,NA,0,1
+16,English,Norwegian,USA,,6,0,1,14,"Quelques amis, ils sont venus",3,1,mis,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,15,Quelques amis sont venus,4,0,m,1,NA,0,1
+16,English,Norwegian,USA,,6,0,1,16,"Aucun enfant, il a le droit de faire ca",3,1,m,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,17,Aucun enfant a le droit de faire ca,2,0,NA,1,NA,0,1
+16,English,Norwegian,USA,,6,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+16,English,Norwegian,USA,,6,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",3,1,m,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,21,Beaucoup d'americains ont achete du papier toilette,3,0,NA,1,NA,0,1
+16,English,Norwegian,USA,,6,0,1,22,"Peu de gens, ils ont accord  une assurance sante",2,1,m,1,NA,0,0
+16,English,Norwegian,USA,,6,0,1,23,Peu de gens ont accord une assurance sante,2,0,NA,1,NA,0,1
+16,English,Norwegian,USA,,6,0,1,24,"Jean, il boit et mange toute la journee",3,NA,m,2,0,0,1
+16,English,Norwegian,USA,,6,0,1,25,"Jean, il boit et il mange toute la journee",2,NA,m,2,1,0,0
+16,English,Norwegian,USA,,6,0,1,26,Personne il boit et mange toute la journee,2,NA,NA,2,NA,0,NA
+16,English,Norwegian,USA,,6,0,1,27,Personne il boit et il mange toute la journee,4,NA,NA,2,NA,0,NA
+16,English,Norwegian,USA,,6,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+16,English,Norwegian,USA,,6,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+16,English,Norwegian,USA,,6,0,1,30,"Marie, elle boit et elle mange toute la journee",3,NA,f,2,1,1,0
+16,English,Norwegian,USA,,6,0,1,31,"Marie, a boit et a mange toute la journee",2,NA,f,2,1,1,0
+17,French,,Belgium,,,1,0,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+17,French,,Belgium,,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+17,French,,Belgium,,,1,0,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+17,French,,Belgium,,,1,0,4,Tous sont d'accord,3,0,NA,1,NA,0,1
+17,French,,Belgium,,,1,0,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+17,French,,Belgium,,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+17,French,,Belgium,,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+17,French,,Belgium,,,1,0,8,"Quelqu'un, il a telephone",2,1,m,1,NA,0,NA
+17,French,,Belgium,,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+17,French,,Belgium,,,1,0,10,Personne est venu,4,NA,NA,1,NA,0,NA
+17,French,,Belgium,,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+17,French,,Belgium,,,1,0,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+17,French,,Belgium,,,1,0,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+17,French,,Belgium,,,1,0,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+17,French,,Belgium,,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+17,French,,Belgium,,,1,0,16,"Aucun enfant, il a le droit de faire ca",4,1,m,1,NA,0,0
+17,French,,Belgium,,,1,0,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+17,French,,Belgium,,,1,0,18,"Aucune enfante, elle a le droit de faire ca",4,1,f,1,NA,0,0
+17,French,,Belgium,,,1,0,19,"Aucun enfant, elle a le droit de faire ca",3,1,mis,1,NA,0,NA
+17,French,,Belgium,,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+17,French,,Belgium,,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+17,French,,Belgium,,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",2,1,m,1,NA,0,0
+17,French,,Belgium,,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+17,French,,Belgium,,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+17,French,,Belgium,,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+17,French,,Belgium,,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+17,French,,Belgium,,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+17,French,,Belgium,,,1,0,28,"Andre, i mange et i boit toute la journee",4,NA,m,2,1,1,0
+17,French,,Belgium,,,1,0,29,Personne i boit et i mange toute la journee,2,NA,NA,2,NA,0,NA
+17,French,,Belgium,,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+17,French,,Belgium,,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+18,English,Spanish,USA,,6,0,1,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+18,English,Spanish,USA,,6,0,1,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+18,English,Spanish,USA,,6,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+18,English,Spanish,USA,,6,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+18,English,Spanish,USA,,6,0,1,9,"Personne, il est venu",2,NA,m,1,NA,0,NA
+18,English,Spanish,USA,,6,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+18,English,Spanish,USA,,6,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+18,English,Spanish,USA,,6,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+18,English,Spanish,USA,,6,0,1,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+18,English,Spanish,USA,,6,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+18,English,Spanish,USA,,6,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+18,English,Spanish,USA,,6,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+18,English,Spanish,USA,,6,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+18,English,Spanish,USA,,6,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+18,English,Spanish,USA,,6,0,1,24,"Jean, il boit et mange toute la journee",3,NA,m,2,0,0,1
+18,English,Spanish,USA,,6,0,1,25,"Jean, il boit et il mange toute la journee",4,NA,m,2,1,0,0
+18,English,Spanish,USA,,6,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+18,English,Spanish,USA,,6,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+18,English,Spanish,USA,,6,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+18,English,Spanish,USA,,6,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+18,English,Spanish,USA,,6,0,1,30,"Marie, elle boit et elle mange toute la journee",4,NA,f,2,1,1,0
+18,English,Spanish,USA,,6,0,1,31,"Marie, a boit et a mange toute la journee",2,NA,f,2,1,1,0
+19,English,,Canada,16,6,0,1,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+19,English,,Canada,16,6,0,1,2,Chacun veut avoir raison,1,0,NA,1,NA,0,1
+19,English,,Canada,16,6,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+19,English,,Canada,16,6,0,1,4,Tous sont d'accord,3,0,NA,1,NA,0,1
+19,English,,Canada,16,6,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+19,English,,Canada,16,6,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+19,English,,Canada,16,6,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+19,English,,Canada,16,6,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+19,English,,Canada,16,6,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+19,English,,Canada,16,6,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+19,English,,Canada,16,6,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+19,English,,Canada,16,6,0,1,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+19,English,,Canada,16,6,0,1,13,"Tous mes amis, sont partis en vacances",4,0,f,1,NA,0,1
+19,English,,Canada,16,6,0,1,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+19,English,,Canada,16,6,0,1,15,Quelques amis sont venus,4,0,m,1,NA,0,1
+19,English,,Canada,16,6,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+19,English,,Canada,16,6,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+19,English,,Canada,16,6,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+19,English,,Canada,16,6,0,1,19,"Aucun enfant, elle a le droit de faire ca",2,1,mis,1,NA,0,NA
+19,English,,Canada,16,6,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+19,English,,Canada,16,6,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+19,English,,Canada,16,6,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+19,English,,Canada,16,6,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+19,English,,Canada,16,6,0,1,24,"Jean, il boit et mange toute la journee",3,NA,m,2,0,0,1
+19,English,,Canada,16,6,0,1,25,"Jean, il boit et il mange toute la journee",3,NA,m,2,1,0,0
+19,English,,Canada,16,6,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+19,English,,Canada,16,6,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+19,English,,Canada,16,6,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+19,English,,Canada,16,6,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+19,English,,Canada,16,6,0,1,30,"Marie, elle boit et elle mange toute la journee",3,NA,f,2,1,1,0
+19,English,,Canada,16,6,0,1,31,"Marie, a boit et a mange toute la journee",3,NA,f,2,1,1,0
+20,French,,Guayana,13,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+20,French,,Guayana,13,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+20,French,,Guayana,13,,1,0,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+20,French,,Guayana,13,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+20,French,,Guayana,13,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+20,French,,Guayana,13,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+20,French,,Guayana,13,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+20,French,,Guayana,13,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+20,French,,Guayana,13,,1,0,9,"Personne, il est venu",3,NA,m,1,NA,0,NA
+20,French,,Guayana,13,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+20,French,,Guayana,13,,1,0,11,"Personne, elle est venu",4,NA,NA,1,NA,0,NA
+20,French,,Guayana,13,,1,0,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+20,French,,Guayana,13,,1,0,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+20,French,,Guayana,13,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+20,French,,Guayana,13,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+20,French,,Guayana,13,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+20,French,,Guayana,13,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+20,French,,Guayana,13,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+20,French,,Guayana,13,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+20,French,,Guayana,13,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+20,French,,Guayana,13,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+20,French,,Guayana,13,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+20,French,,Guayana,13,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+20,French,,Guayana,13,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+20,French,,Guayana,13,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+20,French,,Guayana,13,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+20,French,,Guayana,13,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+20,French,,Guayana,13,,1,0,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+20,French,,Guayana,13,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+20,French,,Guayana,13,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+20,French,,Guayana,13,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+21,English,,USA,21,6,0,1,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+21,English,,USA,21,6,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+21,English,,USA,21,6,0,1,3,"Tous, ils sont d'accord",5,1,m,1,NA,0,0
+21,English,,USA,21,6,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+21,English,,USA,21,6,0,1,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+21,English,,USA,21,6,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+21,English,,USA,21,6,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+21,English,,USA,21,6,0,1,8,"Quelqu'un, il a telephone",2,1,m,1,NA,0,NA
+21,English,,USA,21,6,0,1,9,"Personne, il est venu",2,NA,m,1,NA,0,NA
+21,English,,USA,21,6,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+21,English,,USA,21,6,0,1,11,"Personne, elle est venu",2,NA,NA,1,NA,0,NA
+21,English,,USA,21,6,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+21,English,,USA,21,6,0,1,13,"Tous mes amis, sont partis en vacances",1,0,f,1,NA,0,1
+21,English,,USA,21,6,0,1,14,"Quelques amis, ils sont venus",5,1,mis,1,NA,0,0
+21,English,,USA,21,6,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+21,English,,USA,21,6,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+21,English,,USA,21,6,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+21,English,,USA,21,6,0,1,18,"Aucune enfante, elle a le droit de faire ca",2,1,f,1,NA,0,0
+21,English,,USA,21,6,0,1,19,"Aucun enfant, elle a le droit de faire ca",3,1,mis,1,NA,0,NA
+21,English,,USA,21,6,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+21,English,,USA,21,6,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+21,English,,USA,21,6,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+21,English,,USA,21,6,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+21,English,,USA,21,6,0,1,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+21,English,,USA,21,6,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+21,English,,USA,21,6,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+21,English,,USA,21,6,0,1,27,Personne il boit et il mange toute la journee,3,NA,NA,2,NA,0,NA
+21,English,,USA,21,6,0,1,28,"Andre, i mange et i boit toute la journee",3,NA,m,2,1,1,0
+21,English,,USA,21,6,0,1,29,Personne i boit et i mange toute la journee,3,NA,NA,2,NA,0,NA
+21,English,,USA,21,6,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+21,English,,USA,21,6,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+22,French,,France,22,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+22,French,,France,22,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+22,French,,France,22,,1,0,3,"Tous, ils sont d'accord",4,1,m,1,NA,0,0
+22,French,,France,22,,1,0,4,Tous sont d'accord,3,0,NA,1,NA,0,1
+22,French,,France,22,,1,0,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+22,French,,France,22,,1,0,6,"Quelqu'une, elle a telephone",2,1,f,1,NA,0,0
+22,French,,France,22,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+22,French,,France,22,,1,0,8,"Quelqu'un, il a telephone",2,1,m,1,NA,0,NA
+22,French,,France,22,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+22,French,,France,22,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+22,French,,France,22,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+22,French,,France,22,,1,0,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+22,French,,France,22,,1,0,13,"Tous mes amis, sont partis en vacances",4,0,f,1,NA,0,1
+22,French,,France,22,,1,0,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+22,French,,France,22,,1,0,15,Quelques amis sont venus,4,0,m,1,NA,0,1
+22,French,,France,22,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+22,French,,France,22,,1,0,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+22,French,,France,22,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+22,French,,France,22,,1,0,19,"Aucun enfant, elle a le droit de faire ca",2,1,mis,1,NA,0,NA
+22,French,,France,22,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+22,French,,France,22,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+22,French,,France,22,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+22,French,,France,22,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+22,French,,France,22,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+22,French,,France,22,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+22,French,,France,22,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+22,French,,France,22,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+22,French,,France,22,,1,0,28,"Andre, i mange et i boit toute la journee",4,NA,m,2,1,1,0
+22,French,,France,22,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+22,French,,France,22,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+22,French,,France,22,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+23,French,,France,,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+23,French,,France,,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+23,French,,France,,,1,0,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+23,French,,France,,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+23,French,,France,,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+23,French,,France,,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+23,French,,France,,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+23,French,,France,,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+23,French,,France,,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+23,French,,France,,,1,0,10,Personne est venu,4,NA,NA,1,NA,0,NA
+23,French,,France,,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+23,French,,France,,,1,0,12,"Tous mes amis, ils sont partis en vacances",3,1,m,1,NA,0,0
+23,French,,France,,,1,0,13,"Tous mes amis, sont partis en vacances",4,0,f,1,NA,0,1
+23,French,,France,,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+23,French,,France,,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+23,French,,France,,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+23,French,,France,,,1,0,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+23,French,,France,,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+23,French,,France,,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+23,French,,France,,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+23,French,,France,,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+23,French,,France,,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",2,1,m,1,NA,0,0
+23,French,,France,,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+23,French,,France,,,1,0,24,"Jean, il boit et mange toute la journee",3,NA,m,2,0,0,1
+23,French,,France,,,1,0,25,"Jean, il boit et il mange toute la journee",3,NA,m,2,1,0,0
+23,French,,France,,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+23,French,,France,,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+23,French,,France,,,1,0,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+23,French,,France,,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+23,French,,France,,,1,0,30,"Marie, elle boit et elle mange toute la journee",3,NA,f,2,1,1,0
+23,French,,France,,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+24,French,,France,29,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+24,French,,France,29,,1,0,2,Chacun veut avoir raison,3,0,NA,1,NA,0,1
+24,French,,France,29,,1,0,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+24,French,,France,29,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+24,French,,France,29,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+24,French,,France,29,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+24,French,,France,29,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+24,French,,France,29,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+24,French,,France,29,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+24,French,,France,29,,1,0,10,Personne est venu,2,NA,NA,1,NA,0,NA
+24,French,,France,29,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+24,French,,France,29,,1,0,12,"Tous mes amis, ils sont partis en vacances",2,1,m,1,NA,0,0
+24,French,,France,29,,1,0,13,"Tous mes amis, sont partis en vacances",3,0,f,1,NA,0,1
+24,French,,France,29,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+24,French,,France,29,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+24,French,,France,29,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+24,French,,France,29,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+24,French,,France,29,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+24,French,,France,29,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+24,French,,France,29,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+24,French,,France,29,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+24,French,,France,29,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+24,French,,France,29,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+24,French,,France,29,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+24,French,,France,29,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+24,French,,France,29,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+24,French,,France,29,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+24,French,,France,29,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+24,French,,France,29,,1,0,29,Personne i boit et i mange toute la journee,2,NA,NA,2,NA,0,NA
+24,French,,France,29,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+24,French,,France,29,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+25,French,,France,30,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+25,French,,France,30,,1,0,2,Chacun veut avoir raison,4,0,NA,1,NA,0,1
+25,French,,France,30,,1,0,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+25,French,,France,30,,1,0,4,Tous sont d'accord,4,0,NA,1,NA,0,1
+25,French,,France,30,,1,0,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+25,French,,France,30,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+25,French,,France,30,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+25,French,,France,30,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+25,French,,France,30,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+25,French,,France,30,,1,0,10,Personne est venu,2,NA,NA,1,NA,0,NA
+25,French,,France,30,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+25,French,,France,30,,1,0,12,"Tous mes amis, ils sont partis en vacances",3,1,m,1,NA,0,0
+25,French,,France,30,,1,0,13,"Tous mes amis, sont partis en vacances",4,0,f,1,NA,0,1
+25,French,,France,30,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+25,French,,France,30,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+25,French,,France,30,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+25,French,,France,30,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+25,French,,France,30,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+25,French,,France,30,,1,0,19,"Aucun enfant, elle a le droit de faire ca",2,1,mis,1,NA,0,NA
+25,French,,France,30,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",3,1,m,1,NA,0,0
+25,French,,France,30,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+25,French,,France,30,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+25,French,,France,30,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+25,French,,France,30,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+25,French,,France,30,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+25,French,,France,30,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+25,French,,France,30,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+25,French,,France,30,,1,0,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+25,French,,France,30,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+25,French,,France,30,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+25,French,,France,30,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+26,English,,USA,30,4,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+26,English,,USA,30,4,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+26,English,,USA,30,4,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+26,English,,USA,30,4,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+26,English,,USA,30,4,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+26,English,,USA,30,4,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+26,English,,USA,30,4,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+26,English,,USA,30,4,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+26,English,,USA,30,4,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+26,English,,USA,30,4,0,1,10,Personne est venu,1,NA,NA,1,NA,0,NA
+26,English,,USA,30,4,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+26,English,,USA,30,4,0,1,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+26,English,,USA,30,4,0,1,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+26,English,,USA,30,4,0,1,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+26,English,,USA,30,4,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+26,English,,USA,30,4,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+26,English,,USA,30,4,0,1,17,Aucun enfant a le droit de faire ca,1,0,NA,1,NA,0,1
+26,English,,USA,30,4,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+26,English,,USA,30,4,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+26,English,,USA,30,4,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+26,English,,USA,30,4,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+26,English,,USA,30,4,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+26,English,,USA,30,4,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+26,English,,USA,30,4,0,1,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+26,English,,USA,30,4,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+26,English,,USA,30,4,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+26,English,,USA,30,4,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+26,English,,USA,30,4,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+26,English,,USA,30,4,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+26,English,,USA,30,4,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+26,English,,USA,30,4,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+27,French,,France,28,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+27,French,,France,28,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+27,French,,France,28,,1,0,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+27,French,,France,28,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+27,French,,France,28,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+27,French,,France,28,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+27,French,,France,28,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+27,French,,France,28,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+27,French,,France,28,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+27,French,,France,28,,1,0,10,Personne est venu,1,NA,NA,1,NA,0,NA
+27,French,,France,28,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+27,French,,France,28,,1,0,12,"Tous mes amis, ils sont partis en vacances",2,1,m,1,NA,0,0
+27,French,,France,28,,1,0,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+27,French,,France,28,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+27,French,,France,28,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+27,French,,France,28,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+27,French,,France,28,,1,0,17,Aucun enfant a le droit de faire ca,1,0,NA,1,NA,0,1
+27,French,,France,28,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+27,French,,France,28,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+27,French,,France,28,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+27,French,,France,28,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+27,French,,France,28,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+27,French,,France,28,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+27,French,,France,28,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+27,French,,France,28,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+27,French,,France,28,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+27,French,,France,28,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+27,French,,France,28,,1,0,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+27,French,,France,28,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+27,French,,France,28,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+27,French,,France,28,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+28,French,,France,23,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+28,French,,France,23,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+28,French,,France,23,,1,0,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+28,French,,France,23,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+28,French,,France,23,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+28,French,,France,23,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+28,French,,France,23,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+28,French,,France,23,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+28,French,,France,23,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+28,French,,France,23,,1,0,10,Personne est venu,3,NA,NA,1,NA,0,NA
+28,French,,France,23,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+28,French,,France,23,,1,0,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+28,French,,France,23,,1,0,13,"Tous mes amis, sont partis en vacances",1,0,f,1,NA,0,1
+28,French,,France,23,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+28,French,,France,23,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+28,French,,France,23,,1,0,16,"Aucun enfant, il a le droit de faire ca",5,1,m,1,NA,0,0
+28,French,,France,23,,1,0,17,Aucun enfant a le droit de faire ca,2,0,NA,1,NA,0,1
+28,French,,France,23,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+28,French,,France,23,,1,0,19,"Aucun enfant, elle a le droit de faire ca",5,1,mis,1,NA,0,NA
+28,French,,France,23,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+28,French,,France,23,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+28,French,,France,23,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+28,French,,France,23,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+28,French,,France,23,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+28,French,,France,23,,1,0,25,"Jean, il boit et il mange toute la journee",4,NA,m,2,1,0,0
+28,French,,France,23,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+28,French,,France,23,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+28,French,,France,23,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+28,French,,France,23,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+28,French,,France,23,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+28,French,,France,23,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+29,English,Italian,USA,19,4,0,1,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,2,Chacun veut avoir raison,3,0,NA,1,NA,0,1
+29,English,Italian,USA,19,4,0,1,3,"Tous, ils sont d'accord",3,1,m,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,4,Tous sont d'accord,2,0,NA,1,NA,0,1
+29,English,Italian,USA,19,4,0,1,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,6,"Quelqu'une, elle a telephone",3,1,f,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,7,Quelqu'un a telephone,2,0,m,1,NA,0,1
+29,English,Italian,USA,19,4,0,1,8,"Quelqu'un, il a telephone",4,1,m,1,NA,0,NA
+29,English,Italian,USA,19,4,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+29,English,Italian,USA,19,4,0,1,10,Personne est venu,2,NA,NA,1,NA,0,NA
+29,English,Italian,USA,19,4,0,1,11,"Personne, elle est venu",3,NA,NA,1,NA,0,NA
+29,English,Italian,USA,19,4,0,1,12,"Tous mes amis, ils sont partis en vacances",3,1,m,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,13,"Tous mes amis, sont partis en vacances",1,0,f,1,NA,0,1
+29,English,Italian,USA,19,4,0,1,14,"Quelques amis, ils sont venus",4,1,mis,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,15,Quelques amis sont venus,2,0,m,1,NA,0,1
+29,English,Italian,USA,19,4,0,1,16,"Aucun enfant, il a le droit de faire ca",2,1,m,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,17,Aucun enfant a le droit de faire ca,2,0,NA,1,NA,0,1
+29,English,Italian,USA,19,4,0,1,18,"Aucune enfante, elle a le droit de faire ca",3,1,f,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+29,English,Italian,USA,19,4,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",5,1,m,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,21,Beaucoup d'americains ont achete du papier toilette,3,0,NA,1,NA,0,1
+29,English,Italian,USA,19,4,0,1,22,"Peu de gens, ils ont accord  une assurance sante",2,1,m,1,NA,0,0
+29,English,Italian,USA,19,4,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+29,English,Italian,USA,19,4,0,1,24,"Jean, il boit et mange toute la journee",4,NA,m,2,0,0,1
+29,English,Italian,USA,19,4,0,1,25,"Jean, il boit et il mange toute la journee",4,NA,m,2,1,0,0
+29,English,Italian,USA,19,4,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+29,English,Italian,USA,19,4,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+29,English,Italian,USA,19,4,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+29,English,Italian,USA,19,4,0,1,29,Personne i boit et i mange toute la journee,2,NA,NA,2,NA,0,NA
+29,English,Italian,USA,19,4,0,1,30,"Marie, elle boit et elle mange toute la journee",4,NA,f,2,1,1,0
+29,English,Italian,USA,19,4,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+30,English,,USA,35,9,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+30,English,,USA,35,9,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+30,English,,USA,35,9,0,1,3,"Tous, ils sont d'accord",3,1,m,1,NA,0,0
+30,English,,USA,35,9,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+30,English,,USA,35,9,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+30,English,,USA,35,9,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+30,English,,USA,35,9,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+30,English,,USA,35,9,0,1,8,"Quelqu'un, il a telephone",2,1,m,1,NA,0,NA
+30,English,,USA,35,9,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+30,English,,USA,35,9,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+30,English,,USA,35,9,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+30,English,,USA,35,9,0,1,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+30,English,,USA,35,9,0,1,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+30,English,,USA,35,9,0,1,14,"Quelques amis, ils sont venus",4,1,mis,1,NA,0,0
+30,English,,USA,35,9,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+30,English,,USA,35,9,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+30,English,,USA,35,9,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+30,English,,USA,35,9,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+30,English,,USA,35,9,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+30,English,,USA,35,9,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",3,1,m,1,NA,0,0
+30,English,,USA,35,9,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+30,English,,USA,35,9,0,1,22,"Peu de gens, ils ont accord  une assurance sante",2,1,m,1,NA,0,0
+30,English,,USA,35,9,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+30,English,,USA,35,9,0,1,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+30,English,,USA,35,9,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+30,English,,USA,35,9,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+30,English,,USA,35,9,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+30,English,,USA,35,9,0,1,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+30,English,,USA,35,9,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+30,English,,USA,35,9,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+30,English,,USA,35,9,0,1,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+31,French,,Canada,37,,1,0,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+31,French,,Canada,37,,1,0,2,Chacun veut avoir raison,4,0,NA,1,NA,0,1
+31,French,,Canada,37,,1,0,3,"Tous, ils sont d'accord",3,1,m,1,NA,0,0
+31,French,,Canada,37,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+31,French,,Canada,37,,1,0,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+31,French,,Canada,37,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+31,French,,Canada,37,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+31,French,,Canada,37,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+31,French,,Canada,37,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+31,French,,Canada,37,,1,0,10,Personne est venu,2,NA,NA,1,NA,0,NA
+31,French,,Canada,37,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+31,French,,Canada,37,,1,0,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+31,French,,Canada,37,,1,0,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+31,French,,Canada,37,,1,0,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+31,French,,Canada,37,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+31,French,,Canada,37,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+31,French,,Canada,37,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+31,French,,Canada,37,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+31,French,,Canada,37,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+31,French,,Canada,37,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+31,French,,Canada,37,,1,0,21,Beaucoup d'americains ont achete du papier toilette,4,0,NA,1,NA,0,1
+31,French,,Canada,37,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+31,French,,Canada,37,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+31,French,,Canada,37,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+31,French,,Canada,37,,1,0,25,"Jean, il boit et il mange toute la journee",4,NA,m,2,1,0,0
+31,French,,Canada,37,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+31,French,,Canada,37,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+31,French,,Canada,37,,1,0,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+31,French,,Canada,37,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+31,French,,Canada,37,,1,0,30,"Marie, elle boit et elle mange toute la journee",4,NA,f,2,1,1,0
+31,French,,Canada,37,,1,0,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+32,Vietnamese,,Canada,43,10,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,2,Chacun veut avoir raison,1,0,NA,1,NA,0,1
+32,Vietnamese,,Canada,43,10,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+32,Vietnamese,,Canada,43,10,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+32,Vietnamese,,Canada,43,10,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+32,Vietnamese,,Canada,43,10,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+32,Vietnamese,,Canada,43,10,0,1,10,Personne est venu,2,NA,NA,1,NA,0,NA
+32,Vietnamese,,Canada,43,10,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+32,Vietnamese,,Canada,43,10,0,1,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+32,Vietnamese,,Canada,43,10,0,1,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+32,Vietnamese,,Canada,43,10,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,17,Aucun enfant a le droit de faire ca,2,0,NA,1,NA,0,1
+32,Vietnamese,,Canada,43,10,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+32,Vietnamese,,Canada,43,10,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+32,Vietnamese,,Canada,43,10,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+32,Vietnamese,,Canada,43,10,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+32,Vietnamese,,Canada,43,10,0,1,24,"Jean, il boit et mange toute la journee",2,NA,m,2,0,0,1
+32,Vietnamese,,Canada,43,10,0,1,25,"Jean, il boit et il mange toute la journee",2,NA,m,2,1,0,0
+32,Vietnamese,,Canada,43,10,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+32,Vietnamese,,Canada,43,10,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+32,Vietnamese,,Canada,43,10,0,1,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+32,Vietnamese,,Canada,43,10,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+32,Vietnamese,,Canada,43,10,0,1,30,"Marie, elle boit et elle mange toute la journee",2,NA,f,2,1,1,0
+32,Vietnamese,,Canada,43,10,0,1,31,"Marie, a boit et a mange toute la journee",1,NA,f,2,1,1,0
+33,French,,Canada,24,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+33,French,,Canada,24,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+33,French,,Canada,24,,1,0,3,"Tous, ils sont d'accord",4,1,m,1,NA,0,0
+33,French,,Canada,24,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+33,French,,Canada,24,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+33,French,,Canada,24,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+33,French,,Canada,24,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+33,French,,Canada,24,,1,0,8,"Quelqu'un, il a telephone",3,1,m,1,NA,0,NA
+33,French,,Canada,24,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+33,French,,Canada,24,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+33,French,,Canada,24,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+33,French,,Canada,24,,1,0,12,"Tous mes amis, ils sont partis en vacances",4,1,m,1,NA,0,0
+33,French,,Canada,24,,1,0,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+33,French,,Canada,24,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+33,French,,Canada,24,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+33,French,,Canada,24,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+33,French,,Canada,24,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+33,French,,Canada,24,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+33,French,,Canada,24,,1,0,19,"Aucun enfant, elle a le droit de faire ca",2,1,mis,1,NA,0,NA
+33,French,,Canada,24,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+33,French,,Canada,24,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+33,French,,Canada,24,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",4,1,m,1,NA,0,0
+33,French,,Canada,24,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+33,French,,Canada,24,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+33,French,,Canada,24,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+33,French,,Canada,24,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+33,French,,Canada,24,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+33,French,,Canada,24,,1,0,28,"Andre, i mange et i boit toute la journee",4,NA,m,2,1,1,0
+33,French,,Canada,24,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+33,French,,Canada,24,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+33,French,,Canada,24,,1,0,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+34,French,,Canada,35,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+34,French,,Canada,35,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+34,French,,Canada,35,,1,0,3,"Tous, ils sont d'accord",3,1,m,1,NA,0,0
+34,French,,Canada,35,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+34,French,,Canada,35,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+34,French,,Canada,35,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+34,French,,Canada,35,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+34,French,,Canada,35,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+34,French,,Canada,35,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+34,French,,Canada,35,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+34,French,,Canada,35,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+34,French,,Canada,35,,1,0,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+34,French,,Canada,35,,1,0,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+34,French,,Canada,35,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+34,French,,Canada,35,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+34,French,,Canada,35,,1,0,16,"Aucun enfant, il a le droit de faire ca",3,1,m,1,NA,0,0
+34,French,,Canada,35,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+34,French,,Canada,35,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+34,French,,Canada,35,,1,0,19,"Aucun enfant, elle a le droit de faire ca",3,1,mis,1,NA,0,NA
+34,French,,Canada,35,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+34,French,,Canada,35,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+34,French,,Canada,35,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+34,French,,Canada,35,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+34,French,,Canada,35,,1,0,24,"Jean, il boit et mange toute la journee",4,NA,m,2,0,0,1
+34,French,,Canada,35,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+34,French,,Canada,35,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+34,French,,Canada,35,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+34,French,,Canada,35,,1,0,28,"Andre, i mange et i boit toute la journee",3,NA,m,2,1,1,0
+34,French,,Canada,35,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+34,French,,Canada,35,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+34,French,,Canada,35,,1,0,31,"Marie, a boit et a mange toute la journee",4,NA,f,2,1,1,0
+35,French,,Canada,22,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+35,French,,Canada,22,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+35,French,,Canada,22,,1,0,3,"Tous, ils sont d'accord",4,1,m,1,NA,0,0
+35,French,,Canada,22,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+35,French,,Canada,22,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+35,French,,Canada,22,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+35,French,,Canada,22,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+35,French,,Canada,22,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+35,French,,Canada,22,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+35,French,,Canada,22,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+35,French,,Canada,22,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+35,French,,Canada,22,,1,0,12,"Tous mes amis, ils sont partis en vacances",3,1,m,1,NA,0,0
+35,French,,Canada,22,,1,0,13,"Tous mes amis, sont partis en vacances",4,0,f,1,NA,0,1
+35,French,,Canada,22,,1,0,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+35,French,,Canada,22,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+35,French,,Canada,22,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+35,French,,Canada,22,,1,0,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+35,French,,Canada,22,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+35,French,,Canada,22,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+35,French,,Canada,22,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",3,1,m,1,NA,0,0
+35,French,,Canada,22,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+35,French,,Canada,22,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+35,French,,Canada,22,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+35,French,,Canada,22,,1,0,24,"Jean, il boit et mange toute la journee",4,NA,m,2,0,0,1
+35,French,,Canada,22,,1,0,25,"Jean, il boit et il mange toute la journee",4,NA,m,2,1,0,0
+35,French,,Canada,22,,1,0,26,Personne il boit et mange toute la journee,2,NA,NA,2,NA,0,NA
+35,French,,Canada,22,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+35,French,,Canada,22,,1,0,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+35,French,,Canada,22,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+35,French,,Canada,22,,1,0,30,"Marie, elle boit et elle mange toute la journee",4,NA,f,2,1,1,0
+35,French,,Canada,22,,1,0,31,"Marie, a boit et a mange toute la journee",2,NA,f,2,1,1,0
+36,French,,Canada,30,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+36,French,,Canada,30,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+36,French,,Canada,30,,1,0,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+36,French,,Canada,30,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+36,French,,Canada,30,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+36,French,,Canada,30,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+36,French,,Canada,30,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+36,French,,Canada,30,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+36,French,,Canada,30,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+36,French,,Canada,30,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+36,French,,Canada,30,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+36,French,,Canada,30,,1,0,12,"Tous mes amis, ils sont partis en vacances",2,1,m,1,NA,0,0
+36,French,,Canada,30,,1,0,13,"Tous mes amis, sont partis en vacances",3,0,f,1,NA,0,1
+36,French,,Canada,30,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+36,French,,Canada,30,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+36,French,,Canada,30,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+36,French,,Canada,30,,1,0,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+36,French,,Canada,30,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+36,French,,Canada,30,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+36,French,,Canada,30,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+36,French,,Canada,30,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+36,French,,Canada,30,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+36,French,,Canada,30,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+36,French,,Canada,30,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+36,French,,Canada,30,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+36,French,,Canada,30,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+36,French,,Canada,30,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+36,French,,Canada,30,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+36,French,,Canada,30,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+36,French,,Canada,30,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+36,French,,Canada,30,,1,0,31,"Marie, a boit et a mange toute la journee",4,NA,f,2,1,1,0
+37,French,,Canada,29,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+37,French,,Canada,29,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+37,French,,Canada,29,,1,0,3,"Tous, ils sont d'accord",3,1,m,1,NA,0,0
+37,French,,Canada,29,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+37,French,,Canada,29,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+37,French,,Canada,29,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+37,French,,Canada,29,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+37,French,,Canada,29,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+37,French,,Canada,29,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+37,French,,Canada,29,,1,0,10,Personne est venu,3,NA,NA,1,NA,0,NA
+37,French,,Canada,29,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+37,French,,Canada,29,,1,0,12,"Tous mes amis, ils sont partis en vacances",4,1,m,1,NA,0,0
+37,French,,Canada,29,,1,0,13,"Tous mes amis, sont partis en vacances",4,0,f,1,NA,0,1
+37,French,,Canada,29,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+37,French,,Canada,29,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+37,French,,Canada,29,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+37,French,,Canada,29,,1,0,17,Aucun enfant a le droit de faire ca,1,0,NA,1,NA,0,1
+37,French,,Canada,29,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+37,French,,Canada,29,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+37,French,,Canada,29,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+37,French,,Canada,29,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+37,French,,Canada,29,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",3,1,m,1,NA,0,0
+37,French,,Canada,29,,1,0,23,Peu de gens ont accord une assurance sante,3,0,NA,1,NA,0,1
+37,French,,Canada,29,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+37,French,,Canada,29,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+37,French,,Canada,29,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+37,French,,Canada,29,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+37,French,,Canada,29,,1,0,28,"Andre, i mange et i boit toute la journee",3,NA,m,2,1,1,0
+37,French,,Canada,29,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+37,French,,Canada,29,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+37,French,,Canada,29,,1,0,31,"Marie, a boit et a mange toute la journee",4,NA,f,2,1,1,0
+38,French,,Canada,24,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+38,French,,Canada,24,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+38,French,,Canada,24,,1,0,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+38,French,,Canada,24,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+38,French,,Canada,24,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+38,French,,Canada,24,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+38,French,,Canada,24,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+38,French,,Canada,24,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+38,French,,Canada,24,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+38,French,,Canada,24,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+38,French,,Canada,24,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+38,French,,Canada,24,,1,0,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+38,French,,Canada,24,,1,0,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+38,French,,Canada,24,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+38,French,,Canada,24,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+38,French,,Canada,24,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+38,French,,Canada,24,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+38,French,,Canada,24,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+38,French,,Canada,24,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+38,French,,Canada,24,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+38,French,,Canada,24,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+38,French,,Canada,24,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+38,French,,Canada,24,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+38,French,,Canada,24,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+38,French,,Canada,24,,1,0,25,"Jean, il boit et il mange toute la journee",1,NA,m,2,1,0,0
+38,French,,Canada,24,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+38,French,,Canada,24,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+38,French,,Canada,24,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+38,French,,Canada,24,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+38,French,,Canada,24,,1,0,30,"Marie, elle boit et elle mange toute la journee",1,NA,f,2,1,1,0
+38,French,,Canada,24,,1,0,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+39,French,,Canada,35,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+39,French,,Canada,35,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+39,French,,Canada,35,,1,0,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+39,French,,Canada,35,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+39,French,,Canada,35,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+39,French,,Canada,35,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+39,French,,Canada,35,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+39,French,,Canada,35,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+39,French,,Canada,35,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+39,French,,Canada,35,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+39,French,,Canada,35,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+39,French,,Canada,35,,1,0,12,"Tous mes amis, ils sont partis en vacances",4,1,m,1,NA,0,0
+39,French,,Canada,35,,1,0,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+39,French,,Canada,35,,1,0,14,"Quelques amis, ils sont venus",3,1,mis,1,NA,0,0
+39,French,,Canada,35,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+39,French,,Canada,35,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+39,French,,Canada,35,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+39,French,,Canada,35,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+39,French,,Canada,35,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+39,French,,Canada,35,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+39,French,,Canada,35,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+39,French,,Canada,35,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+39,French,,Canada,35,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+39,French,,Canada,35,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+39,French,,Canada,35,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+39,French,,Canada,35,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+39,French,,Canada,35,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+39,French,,Canada,35,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+39,French,,Canada,35,,1,0,29,Personne i boit et i mange toute la journee,5,NA,NA,2,NA,0,NA
+39,French,,Canada,35,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+39,French,,Canada,35,,1,0,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+40,French,,Canada,50,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+40,French,,Canada,50,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+40,French,,Canada,50,,1,0,3,"Tous, ils sont d'accord",3,1,m,1,NA,0,0
+40,French,,Canada,50,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+40,French,,Canada,50,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+40,French,,Canada,50,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+40,French,,Canada,50,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+40,French,,Canada,50,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+40,French,,Canada,50,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+40,French,,Canada,50,,1,0,10,Personne est venu,2,NA,NA,1,NA,0,NA
+40,French,,Canada,50,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+40,French,,Canada,50,,1,0,12,"Tous mes amis, ils sont partis en vacances",2,1,m,1,NA,0,0
+40,French,,Canada,50,,1,0,13,"Tous mes amis, sont partis en vacances",3,0,f,1,NA,0,1
+40,French,,Canada,50,,1,0,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+40,French,,Canada,50,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+40,French,,Canada,50,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+40,French,,Canada,50,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+40,French,,Canada,50,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+40,French,,Canada,50,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+40,French,,Canada,50,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+40,French,,Canada,50,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+40,French,,Canada,50,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+40,French,,Canada,50,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+40,French,,Canada,50,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+40,French,,Canada,50,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+40,French,,Canada,50,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+40,French,,Canada,50,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+40,French,,Canada,50,,1,0,28,"Andre, i mange et i boit toute la journee",2,NA,m,2,1,1,0
+40,French,,Canada,50,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+40,French,,Canada,50,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+40,French,,Canada,50,,1,0,31,"Marie, a boit et a mange toute la journee",2,NA,f,2,1,1,0
+41,French,,Canada,40,,1,0,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+41,French,,Canada,40,,1,0,2,Chacun veut avoir raison,3,0,NA,1,NA,0,1
+41,French,,Canada,40,,1,0,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+41,French,,Canada,40,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+41,French,,Canada,40,,1,0,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+41,French,,Canada,40,,1,0,6,"Quelqu'une, elle a telephone",3,1,f,1,NA,0,0
+41,French,,Canada,40,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+41,French,,Canada,40,,1,0,8,"Quelqu'un, il a telephone",3,1,m,1,NA,0,NA
+41,French,,Canada,40,,1,0,9,"Personne, il est venu",2,NA,m,1,NA,0,NA
+41,French,,Canada,40,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+41,French,,Canada,40,,1,0,11,"Personne, elle est venu",2,NA,NA,1,NA,0,NA
+41,French,,Canada,40,,1,0,12,"Tous mes amis, ils sont partis en vacances",4,1,m,1,NA,0,0
+41,French,,Canada,40,,1,0,13,"Tous mes amis, sont partis en vacances",3,0,f,1,NA,0,1
+41,French,,Canada,40,,1,0,14,"Quelques amis, ils sont venus",3,1,mis,1,NA,0,0
+41,French,,Canada,40,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+41,French,,Canada,40,,1,0,16,"Aucun enfant, il a le droit de faire ca",2,1,m,1,NA,0,0
+41,French,,Canada,40,,1,0,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+41,French,,Canada,40,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+41,French,,Canada,40,,1,0,19,"Aucun enfant, elle a le droit de faire ca",2,1,mis,1,NA,0,NA
+41,French,,Canada,40,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",3,1,m,1,NA,0,0
+41,French,,Canada,40,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+41,French,,Canada,40,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",2,1,m,1,NA,0,0
+41,French,,Canada,40,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+41,French,,Canada,40,,1,0,24,"Jean, il boit et mange toute la journee",4,NA,m,2,0,0,1
+41,French,,Canada,40,,1,0,25,"Jean, il boit et il mange toute la journee",4,NA,m,2,1,0,0
+41,French,,Canada,40,,1,0,26,Personne il boit et mange toute la journee,2,NA,NA,2,NA,0,NA
+41,French,,Canada,40,,1,0,27,Personne il boit et il mange toute la journee,2,NA,NA,2,NA,0,NA
+41,French,,Canada,40,,1,0,28,"Andre, i mange et i boit toute la journee",1,NA,m,2,1,1,0
+41,French,,Canada,40,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+41,French,,Canada,40,,1,0,30,"Marie, elle boit et elle mange toute la journee",4,NA,f,2,1,1,0
+41,French,,Canada,40,,1,0,31,"Marie, a boit et a mange toute la journee",2,NA,f,2,1,1,0
+42,French,,Canada,25,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+42,French,,Canada,25,,1,0,2,Chacun veut avoir raison,4,0,NA,1,NA,0,1
+42,French,,Canada,25,,1,0,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+42,French,,Canada,25,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+42,French,,Canada,25,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+42,French,,Canada,25,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+42,French,,Canada,25,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+42,French,,Canada,25,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+42,French,,Canada,25,,1,0,9,"Personne, il est venu",3,NA,m,1,NA,0,NA
+42,French,,Canada,25,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+42,French,,Canada,25,,1,0,11,"Personne, elle est venu",3,NA,NA,1,NA,0,NA
+42,French,,Canada,25,,1,0,12,"Tous mes amis, ils sont partis en vacances",1,1,m,1,NA,0,0
+42,French,,Canada,25,,1,0,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+42,French,,Canada,25,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+42,French,,Canada,25,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+42,French,,Canada,25,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+42,French,,Canada,25,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+42,French,,Canada,25,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+42,French,,Canada,25,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+42,French,,Canada,25,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+42,French,,Canada,25,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+42,French,,Canada,25,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+42,French,,Canada,25,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+42,French,,Canada,25,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+42,French,,Canada,25,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+42,French,,Canada,25,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+42,French,,Canada,25,,1,0,27,Personne il boit et il mange toute la journee,5,NA,NA,2,NA,0,NA
+42,French,,Canada,25,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+42,French,,Canada,25,,1,0,29,Personne i boit et i mange toute la journee,2,NA,NA,2,NA,0,NA
+42,French,,Canada,25,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+42,French,,Canada,25,,1,0,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+43,French,,Canada,28,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+43,French,,Canada,28,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+43,French,,Canada,28,,1,0,3,"Tous, ils sont d'accord",3,1,m,1,NA,0,0
+43,French,,Canada,28,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+43,French,,Canada,28,,1,0,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+43,French,,Canada,28,,1,0,6,"Quelqu'une, elle a telephone",2,1,f,1,NA,0,0
+43,French,,Canada,28,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+43,French,,Canada,28,,1,0,8,"Quelqu'un, il a telephone",2,1,m,1,NA,0,NA
+43,French,,Canada,28,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+43,French,,Canada,28,,1,0,10,Personne est venu,5,NA,NA,1,NA,0,NA
+43,French,,Canada,28,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+43,French,,Canada,28,,1,0,12,"Tous mes amis, ils sont partis en vacances",3,1,m,1,NA,0,0
+43,French,,Canada,28,,1,0,13,"Tous mes amis, sont partis en vacances",4,0,f,1,NA,0,1
+43,French,,Canada,28,,1,0,14,"Quelques amis, ils sont venus",2,1,mis,1,NA,0,0
+43,French,,Canada,28,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+43,French,,Canada,28,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+43,French,,Canada,28,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+43,French,,Canada,28,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+43,French,,Canada,28,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+43,French,,Canada,28,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",2,1,m,1,NA,0,0
+43,French,,Canada,28,,1,0,21,Beaucoup d'americains ont achete du papier toilette,4,0,NA,1,NA,0,1
+43,French,,Canada,28,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+43,French,,Canada,28,,1,0,23,Peu de gens ont accord une assurance sante,4,0,NA,1,NA,0,1
+43,French,,Canada,28,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+43,French,,Canada,28,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+43,French,,Canada,28,,1,0,26,Personne il boit et mange toute la journee,2,NA,NA,2,NA,0,NA
+43,French,,Canada,28,,1,0,27,Personne il boit et il mange toute la journee,2,NA,NA,2,NA,0,NA
+43,French,,Canada,28,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+43,French,,Canada,28,,1,0,29,Personne i boit et i mange toute la journee,2,NA,NA,2,NA,0,NA
+43,French,,Canada,28,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+43,French,,Canada,28,,1,0,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+44,French,,Canada,28,,1,0,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+44,French,,Canada,28,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+44,French,,Canada,28,,1,0,3,"Tous, ils sont d'accord",2,1,m,1,NA,0,0
+44,French,,Canada,28,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+44,French,,Canada,28,,1,0,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+44,French,,Canada,28,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+44,French,,Canada,28,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+44,French,,Canada,28,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+44,French,,Canada,28,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+44,French,,Canada,28,,1,0,10,Personne est venu,3,NA,NA,1,NA,0,NA
+44,French,,Canada,28,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+44,French,,Canada,28,,1,0,12,"Tous mes amis, ils sont partis en vacances",2,1,m,1,NA,0,0
+44,French,,Canada,28,,1,0,13,"Tous mes amis, sont partis en vacances",1,0,f,1,NA,0,1
+44,French,,Canada,28,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+44,French,,Canada,28,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+44,French,,Canada,28,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+44,French,,Canada,28,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+44,French,,Canada,28,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+44,French,,Canada,28,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+44,French,,Canada,28,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+44,French,,Canada,28,,1,0,21,Beaucoup d'americains ont achete du papier toilette,4,0,NA,1,NA,0,1
+44,French,,Canada,28,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+44,French,,Canada,28,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+44,French,,Canada,28,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+44,French,,Canada,28,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+44,French,,Canada,28,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+44,French,,Canada,28,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+44,French,,Canada,28,,1,0,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+44,French,,Canada,28,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+44,French,,Canada,28,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+44,French,,Canada,28,,1,0,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+45,French,,Canada,25,,1,0,1,"Chacun, il veut avoir raison",2,1,m,1,NA,0,0
+45,French,,Canada,25,,1,0,2,Chacun veut avoir raison,2,0,NA,1,NA,0,1
+45,French,,Canada,25,,1,0,3,"Tous, ils sont d'accord",4,1,m,1,NA,0,0
+45,French,,Canada,25,,1,0,4,Tous sont d'accord,3,0,NA,1,NA,0,1
+45,French,,Canada,25,,1,0,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+45,French,,Canada,25,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+45,French,,Canada,25,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+45,French,,Canada,25,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+45,French,,Canada,25,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+45,French,,Canada,25,,1,0,10,Personne est venu,4,NA,NA,1,NA,0,NA
+45,French,,Canada,25,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+45,French,,Canada,25,,1,0,12,"Tous mes amis, ils sont partis en vacances",5,1,m,1,NA,0,0
+45,French,,Canada,25,,1,0,13,"Tous mes amis, sont partis en vacances",4,0,f,1,NA,0,1
+45,French,,Canada,25,,1,0,14,"Quelques amis, ils sont venus",3,1,mis,1,NA,0,0
+45,French,,Canada,25,,1,0,15,Quelques amis sont venus,4,0,m,1,NA,0,1
+45,French,,Canada,25,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+45,French,,Canada,25,,1,0,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+45,French,,Canada,25,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+45,French,,Canada,25,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+45,French,,Canada,25,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",4,1,m,1,NA,0,0
+45,French,,Canada,25,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+45,French,,Canada,25,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+45,French,,Canada,25,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+45,French,,Canada,25,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+45,French,,Canada,25,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+45,French,,Canada,25,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+45,French,,Canada,25,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+45,French,,Canada,25,,1,0,28,"Andre, i mange et i boit toute la journee",4,NA,m,2,1,1,0
+45,French,,Canada,25,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+45,French,,Canada,25,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+45,French,,Canada,25,,1,0,31,"Marie, a boit et a mange toute la journee",4,NA,f,2,1,1,0
+46,English,,USA,36,8,0,1,1,"Chacun, il veut avoir raison",1,1,m,1,NA,0,0
+46,English,,USA,36,8,0,1,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+46,English,,USA,36,8,0,1,3,"Tous, ils sont d'accord",1,1,m,1,NA,0,0
+46,English,,USA,36,8,0,1,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+46,English,,USA,36,8,0,1,5,"Quelqu'un, il a telephone",1,1,m,1,NA,0,0
+46,English,,USA,36,8,0,1,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+46,English,,USA,36,8,0,1,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+46,English,,USA,36,8,0,1,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+46,English,,USA,36,8,0,1,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+46,English,,USA,36,8,0,1,10,Personne est venu,5,NA,NA,1,NA,0,NA
+46,English,,USA,36,8,0,1,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+46,English,,USA,36,8,0,1,12,"Tous mes amis, ils sont partis en vacances",4,1,m,1,NA,0,0
+46,English,,USA,36,8,0,1,13,"Tous mes amis, sont partis en vacances",5,0,f,1,NA,0,1
+46,English,,USA,36,8,0,1,14,"Quelques amis, ils sont venus",4,1,mis,1,NA,0,0
+46,English,,USA,36,8,0,1,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+46,English,,USA,36,8,0,1,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+46,English,,USA,36,8,0,1,17,Aucun enfant a le droit de faire ca,5,0,NA,1,NA,0,1
+46,English,,USA,36,8,0,1,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+46,English,,USA,36,8,0,1,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+46,English,,USA,36,8,0,1,20,"Beaucoup d'americains, ils ont achete du papier toilette",5,1,m,1,NA,0,0
+46,English,,USA,36,8,0,1,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+46,English,,USA,36,8,0,1,22,"Peu de gens, ils ont accord  une assurance sante",1,1,m,1,NA,0,0
+46,English,,USA,36,8,0,1,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+46,English,,USA,36,8,0,1,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+46,English,,USA,36,8,0,1,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+46,English,,USA,36,8,0,1,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+46,English,,USA,36,8,0,1,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+46,English,,USA,36,8,0,1,28,"Andre, i mange et i boit toute la journee",5,NA,m,2,1,1,0
+46,English,,USA,36,8,0,1,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+46,English,,USA,36,8,0,1,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+46,English,,USA,36,8,0,1,31,"Marie, a boit et a mange toute la journee",5,NA,f,2,1,1,0
+47,French,,Canada,34,,1,0,1,"Chacun, il veut avoir raison",3,1,m,1,NA,0,0
+47,French,,Canada,34,,1,0,2,Chacun veut avoir raison,5,0,NA,1,NA,0,1
+47,French,,Canada,34,,1,0,3,"Tous, ils sont d'accord",4,1,m,1,NA,0,0
+47,French,,Canada,34,,1,0,4,Tous sont d'accord,5,0,NA,1,NA,0,1
+47,French,,Canada,34,,1,0,5,"Quelqu'un, il a telephone",2,1,m,1,NA,0,0
+47,French,,Canada,34,,1,0,6,"Quelqu'une, elle a telephone",1,1,f,1,NA,0,0
+47,French,,Canada,34,,1,0,7,Quelqu'un a telephone,5,0,m,1,NA,0,1
+47,French,,Canada,34,,1,0,8,"Quelqu'un, il a telephone",1,1,m,1,NA,0,NA
+47,French,,Canada,34,,1,0,9,"Personne, il est venu",1,NA,m,1,NA,0,NA
+47,French,,Canada,34,,1,0,10,Personne est venu,3,NA,NA,1,NA,0,NA
+47,French,,Canada,34,,1,0,11,"Personne, elle est venu",1,NA,NA,1,NA,0,NA
+47,French,,Canada,34,,1,0,12,"Tous mes amis, ils sont partis en vacances",2,1,m,1,NA,0,0
+47,French,,Canada,34,,1,0,13,"Tous mes amis, sont partis en vacances",2,0,f,1,NA,0,1
+47,French,,Canada,34,,1,0,14,"Quelques amis, ils sont venus",1,1,mis,1,NA,0,0
+47,French,,Canada,34,,1,0,15,Quelques amis sont venus,5,0,m,1,NA,0,1
+47,French,,Canada,34,,1,0,16,"Aucun enfant, il a le droit de faire ca",1,1,m,1,NA,0,0
+47,French,,Canada,34,,1,0,17,Aucun enfant a le droit de faire ca,4,0,NA,1,NA,0,1
+47,French,,Canada,34,,1,0,18,"Aucune enfante, elle a le droit de faire ca",1,1,f,1,NA,0,0
+47,French,,Canada,34,,1,0,19,"Aucun enfant, elle a le droit de faire ca",1,1,mis,1,NA,0,NA
+47,French,,Canada,34,,1,0,20,"Beaucoup d'americains, ils ont achete du papier toilette",1,1,m,1,NA,0,0
+47,French,,Canada,34,,1,0,21,Beaucoup d'americains ont achete du papier toilette,5,0,NA,1,NA,0,1
+47,French,,Canada,34,,1,0,22,"Peu de gens, ils ont accord  une assurance sante",2,1,m,1,NA,0,0
+47,French,,Canada,34,,1,0,23,Peu de gens ont accord une assurance sante,5,0,NA,1,NA,0,1
+47,French,,Canada,34,,1,0,24,"Jean, il boit et mange toute la journee",5,NA,m,2,0,0,1
+47,French,,Canada,34,,1,0,25,"Jean, il boit et il mange toute la journee",5,NA,m,2,1,0,0
+47,French,,Canada,34,,1,0,26,Personne il boit et mange toute la journee,1,NA,NA,2,NA,0,NA
+47,French,,Canada,34,,1,0,27,Personne il boit et il mange toute la journee,1,NA,NA,2,NA,0,NA
+47,French,,Canada,34,,1,0,28,"Andre, i mange et i boit toute la journee",3,NA,m,2,1,1,0
+47,French,,Canada,34,,1,0,29,Personne i boit et i mange toute la journee,1,NA,NA,2,NA,0,NA
+47,French,,Canada,34,,1,0,30,"Marie, elle boit et elle mange toute la journee",5,NA,f,2,1,1,0
+47,French,,Canada,34,,1,0,31,"Marie, a boit et a mange toute la journee",3,NA,f,2,1,1,0

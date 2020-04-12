@@ -1,0 +1,267 @@
+---
+title: "data_analysis"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, libraries}
+library(tidyverse)
+library(scales)
+```
+
+```{r, dataframes}
+response_df = read.csv('ajt/response_df.csv')
+response_df_undup = response_df[ !duplicated(response_df$participant),]
+
+part_region_native = response_df_undup %>% subset(native==1,
+                                                  select=c(participant, region, native))
+part_region_l2 = response_df_undup %>% subset(l2!=0,
+                                                  select=c(participant, region, native))
+
+conjunction_native_24 = response_df %>% subset(condition==2 & native!=0 & item_num==24,
+                                                  select=c(participant, region, native, item_num, item_response, condition, m_f, repeated_pro, canada_specific_pro))
+
+conjunction_native_25 = response_df %>% subset(condition==2 & native!=0 & item_num==25,
+                                                  select=c(participant, region, native, item_num, item_response, condition, m_f, repeated_pro, canada_specific_pro))
+
+L2_speakers = response_df_undup %>% subset(l2==1,
+                                                  select=c(participant,l2_rating,l2,region))
+
+conjunction_forscatter_24 = response_df %>% subset(condition==2 & native==1 & item_num==24,
+                                                   select=c(participant, region, native, item_num, item_response, condition, m_f, repeated_pro, canada_specific_pro))
+
+ca_fr_forscatter_24 = response_df %>% subset(condition==2 & native==1 & item_num==24 & region!="Belgium" & region!="Benin" & region!="Guayana",
+                                                  select = c(participant, region, native, item_num, item_response, condition, m_f, repeated_pro, canada_specific_pro))
+
+all_conjunctions = response_df %>% subset(condition==2 & native==1 & canada_specific_pro==0 & m_f=="m",
+                                                  select=c(participant,region,native,item_num,item_response,condition,m_f,repeated_pro,canada_specific_pro))
+
+all_conjunctions_frca = response_df %>% subset(condition==2 & native==1 & canada_specific_pro==0 & m_f=="m" & region!="Belgium" & region!="Benin" & region!="Guayana",
+                                                  select=c(participant,region,native,item_num,item_response,condition,m_f,repeated_pro,canada_specific_pro))
+
+ca_fr_25 = response_df %>% subset(condition==2 & native==1 & item_num==25 & region!="Belgium" & region!="Benin" & region!="Guayana",
+                                                  select = c(participant, region, native, item_num, item_response, condition, m_f, repeated_pro, canada_specific_pro))
+
+all_native_responses = response_df %>% subset(native==1)
+
+all_native_con1_exp = all_native_responses %>% subset(condition==1 & exp_con==0)
+all_native_con1_con = all_native_responses %>% subset(condition==1 & exp_con==1)
+
+all_native_con2_exp = all_native_responses %>% subset(condition==2 & exp_con==0)
+all_native_con2_con = all_native_responses %>% subset(condition==2 & exp_con==1)
+
+all_native_exp = all_native_responses %>% subset(exp_con==0)
+all_native_con = all_native_responses %>% subset(exp_con==1)
+
+canada = all_native_responses %>% subset(region=='Canada')
+france = all_native_responses %>% subset(region=='France')
+
+canada_con1_exp = canada %>% subset(condition==1 & exp_con==0)
+canada_con1_con = canada %>% subset(condition==1 & exp_con==1)
+canada_con2_exp = canada %>% subset(condition==2 & exp_con==0)
+canada_con2_con = canada %>% subset(condition==2 & exp_con==1)
+canada_exp = canada %>% subset(exp_con==0)
+canada_con = canada %>% subset(exp_con==1)
+
+france_con1_exp = france %>% subset(condition==1 & exp_con==0)
+france_con1_con = france %>% subset(condition==1 & exp_con==1)
+france_con2_exp = france %>% subset(condition==2 & exp_con==0)
+france_con2_con = france %>% subset(condition==2 & exp_con==1)
+france_exp = france %>% subset(exp_con==0)
+france_con = france %>% subset(exp_con==1)
+
+
+```
+
+```{r, view dataframes}
+view(response_df)
+view(response_df_undup)
+
+view(part_region_native)
+view(part_region_l2)
+
+view(conjunction_native_24)
+view(conjunction_native_25)
+
+view(L2_speakers)
+
+view(conjunction_forscatter_24)
+
+view(ca_fr_forscatter_24)
+
+view(all_conjunctions)
+
+view(all_conjunctions_frca)
+
+view(ca_fr_25)
+
+view(all_native_responses)
+
+view(all_native_con1_exp)
+view(all_native_con1_con)
+view(all_native_con2_exp)
+view(all_native_con2_con)
+
+view(all_native_exp)
+view(all_native_con)
+
+view(canada)
+view(france)
+```
+
+```{r, participants by region graphs}
+region_native = ggplot(data=part_region_native, aes(x=region)) +
+  geom_bar() +
+  labs(title="Native participants by region")
+
+region_l2 = ggplot(data=part_region_l2, aes(x=region)) +
+  geom_bar() +
+  labs(title="L2 participants by region")
+
+regions_all = ggplot(data=response_df_undup, aes(x=region, fill=as.factor(native))) +
+  geom_bar(position=position_dodge()) +
+  labs(title="Regions of participants") +
+  scale_fill_manual(name=NULL,
+                     labels = c("L2", "Native"),
+                     values = c("blue","red")) +
+  scale_y_continuous(breaks=round(seq(min(0),max(15),by=1),1))
+  
+
+```
+
+```{r, view participants by region}
+region_native
+region_l2
+regions_all
+```
+
+```{r, L2 speakers by self-reported score}
+L2_scores = L2_speakers %>% ggplot(aes(x=l2_rating, fill=region)) +
+  geom_bar(position=position_dodge(),width=.9) +
+  labs(title="L2 Self-reported Language Scores",x='L2 rating') +
+  scale_x_continuous(breaks=round(seq(min(0),max(10),by=1),1))
+
+L2_scores
+```
+
+```{r, conjunction statistics, native}
+#item 24 bar graph for all native speakers
+response_conj_native_24 = ggplot(data=conjunction_native_24, aes(x=item_response, fill=region)) +
+  geom_bar(position=position_dodge()) +
+  labs(title="Native French -- Conjunction with Resumptive Clitics",x='item response')
+
+response_conj_native_24
+
+#item 25 bar graph for all native speakers
+response_conj_native_25 = ggplot(data=conjunction_native_25, aes(x=item_response, fill=region)) +
+  geom_bar(stat="count",position="dodge",width=.9) +
+  labs(title="Native French -- Conjunction without Resumptive Clitics", y='count', x='response')
+
+response_conj_native_25
+
+#non-resumptive vs resumptive clitic, all native speakers, items 24 & 25
+conj_natives = all_conjunctions %>% ggplot(aes(x=item_response, fill=as.factor(repeated_pro))) +
+  geom_bar(stat="count",position="dodge",width=.9) +
+  labs(title="Native French -- Conjunctions", y='count',x='response')
+
+conj_natives
+
+#item 24 fr vs ca
+conj_24_cafr = ca_fr_forscatter_24 %>% ggplot(aes(x=item_response,fill=region)) +
+  geom_bar(stat="count",position="dodge",width=.9) +
+  labs(title="Canadian vs France speakers -- No Resumptive Clitic")
+conj_24_cafr
+
+#item 25 fr vs ca
+conj_25_cafr = ca_fr_25 %>% ggplot(aes(x=item_response,fill=region)) +
+  geom_bar(stat="count",position="dodge",width=.9) +
+  labs(title="Canadian vs France speakers -- Resumptive Clitic")
+conj_25_cafr
+```
+
+```{r, glmm}
+#regression model on all Native data
+model1 <-glm(formula = item_response ~ region, data=all_native_responses)
+summary(model1)
+
+```
+
+```{r, bar graphs for native speakers <- the good ones}
+con1_exp = all_native_con1_exp %>% ggplot(aes(x=item_response,fill=region)) +
+  geom_bar(position="dodge",width=.9) +
+  labs(title="Native Responses by Region ~ Quantifiers with Clitics", x="item response", y="count")
+
+con1_con = all_native_con1_con %>% ggplot(aes(x=item_response,fill=region)) +
+  geom_bar(position="dodge",width=.9) +
+  labs(title="Native Responses by Region ~ Quantifiers without Clitics", x="item response", y="count")
+
+con2_exp = all_native_con2_exp %>% ggplot(aes(x=item_response,fill=region)) +
+  geom_bar(position="dodge",width=.9) +
+  labs(title="Native Responses by Region ~ Conjunctions with Resumptive Clitics", x="item response", y="count")
+
+con2_con = all_native_con2_con %>% ggplot(aes(x=item_response,fill=region)) +
+  geom_bar(position="dodge",width=.9) +
+  labs(title="Native Responses by Region ~ Conjunctions without Resumptive Clitics", x="item response", y="count")
+
+exp = all_native_exp %>% ggplot(aes(x=item_response,fill=region)) +
+  geom_bar(position="dodge",width=.9) +
+  labs(title="Native Responses by Region ~ Experimental", x="item response", y="count")
+
+con = all_native_con %>% ggplot(aes(x=item_response,fill=region)) +
+  geom_bar(position="dodge",width=.9) +
+  labs(title="Native Responses by Region ~ Control", x="item response", y="count")
+
+```
+
+```{r, view bar graphs}
+con1_exp
+con1_con
+con2_exp
+con2_con
+exp
+con
+
+```
+
+```{r, new dataframes}
+write.csv(response_df_undup, 'undupped_df.csv')
+write.csv(all_native_con, 'native_control.csv')
+write.csv(all_native_exp, 'native_experimental.csv')
+```
+
+
+```{r, tables for france vs canada counts for %}
+table(canada_exp$item_response)
+table(canada_con$item_response)
+
+table(france_exp$item_response)
+table(france_con$item_response)
+
+table(canada_con1_con$item_response)
+table(canada_con1_exp$item_response)
+table(canada_con2_con$item_response)
+table(canada_con2_exp$item_response)
+
+table(france_con1_con$item_response)
+table(france_con1_exp$item_response)
+table(france_con2_con$item_response)
+table(france_con2_exp$item_response)
+```
+
+```{r, france vs caanada statistical analysis}
+t.test(canada_con$item_response, canada_exp$item_response) #p < 2.2e-16
+t.test(france_con$item_response, france_exp$item_response) #p < 2.2e-16
+
+t.test(canada_con1_con$item_response, canada_con1_exp$item_response) #p<2.2e-16
+t.test(canada_con2_con$item_response, canada_con2_exp$item_response) #p=.0006209
+t.test(france_con1_con$item_response, france_con1_exp$item_response) #p<2.2e-16
+t.test(france_con2_con$item_response, france_con2_exp$item_response) #p=.04127
+
+```
+
+```{r, last error}
+rlang::last_error()
+```
